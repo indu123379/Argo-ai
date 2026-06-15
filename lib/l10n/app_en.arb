@@ -1,0 +1,33 @@
+{
+  "@@locale": "en",
+  "appTitle": "AgroAI",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "scanCrops": "Scan Crops",
+  "dashboard": "Dashboard",
+  "profile": "Profile",
+  "weather": "Weather",
+  "aiAssistant": "AI Assistant",
+  "recentScans": "Recent Scans",
+  "viewAll": "View All",
+  "updateProfile": "Update Profile Info",
+  "logout": "Logout",
+  "confirmLogout": "Confirm Logout",
+  "logoutMessage": "Are you sure you want to sign out?",
+  "cancel": "Cancel",
+  "editProfile": "Edit Profile",
+  "phoneNumber": "Phone Number",
+  "location": "Location",
+  "mainCrops": "Main Crops",
+  "saveChanges": "Save Changes",
+  "selectLanguage": "Select Language",
+  "hello": "Hello",
+  "quickActions": "Quick Actions",
+  "fieldInsights": "Field Insights",
+  "recentActivity": "Recent Activity",
+  "cropHealthIndex": "Crop Health Index",
+  "analyzeCrop": "Analyze Crop",
+  "healthy": "Healthy",
+  "infected": "Infected"
+}
