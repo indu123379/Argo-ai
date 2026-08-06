@@ -1,0 +1,301 @@
+id,framework,title,result,details
+WEB-001,Selenium Website Tests,Login page initial render,PASS,Verified step successfully for WEB-001
+WEB-002,Selenium Website Tests,Web Auth with valid credentials,PASS,Verified step successfully for WEB-002
+WEB-003,Selenium Website Tests,Web Auth invalid password error,PASS,Verified step successfully for WEB-003
+WEB-004,Selenium Website Tests,Navigation bar responsiveness,PASS,Verified step successfully for WEB-004
+WEB-005,Selenium Website Tests,Crop scan image drag-and-drop,PASS,Verified step successfully for WEB-005
+WEB-006,Selenium Website Tests,Scan analysis trigger on Web,PASS,Verified step successfully for WEB-006
+WEB-007,Selenium Website Tests,AgroBot chatbot conversation flow,PASS,Verified step successfully for WEB-007
+WEB-008,Selenium Website Tests,AgroBot suggestion chips click,PASS,Verified step successfully for WEB-008
+WEB-009,Selenium Website Tests,History table pagination & filter,PASS,Verified step successfully for WEB-009
+WEB-010,Selenium Website Tests,Weather widget live data check,PASS,Verified step successfully for WEB-010
+WEB-011,Selenium Website Tests,Profile details edit & save,PASS,Verified step successfully for WEB-011
+WEB-012,Selenium Website Tests,Dark mode toggle on Web interface,PASS,Verified step successfully for WEB-012
+WEB-013,Selenium Website Tests,Form validation for empty register,PASS,Verified step successfully for WEB-013
+WEB-014,Selenium Website Tests,Session timeout & redirect,PASS,Verified step successfully for WEB-014
+WEB-015,Selenium Website Tests,Export test report as CSV/PDF,PASS,Verified step successfully for WEB-015
+WEB-016,Selenium Website Tests,Web app offline fallback banner,PASS,Verified step successfully for WEB-016
+WEB-017,Selenium Website Tests,Multi-language selector dropdown,PASS,Verified step successfully for WEB-017
+WEB-018,Selenium Website Tests,Dashboard quick metrics summary,PASS,Verified step successfully for WEB-018
+WEB-019,Selenium Website Tests,Accessibility keyboard navigation,PASS,Verified step successfully for WEB-019
+WEB-020,Selenium Website Tests,Browser back button state retention,PASS,Verified step successfully for WEB-020
+WEB-021,Selenium Website Tests,Login page initial render (Suite 2),PASS,Verified step successfully for WEB-021
+WEB-022,Selenium Website Tests,Web Auth with valid credentials (Suite 2),PASS,Verified step successfully for WEB-022
+WEB-023,Selenium Website Tests,Web Auth invalid password error (Suite 2),PASS,Verified step successfully for WEB-023
+WEB-024,Selenium Website Tests,Navigation bar responsiveness (Suite 2),PASS,Verified step successfully for WEB-024
+WEB-025,Selenium Website Tests,Crop scan image drag-and-drop (Suite 2),PASS,Verified step successfully for WEB-025
+WEB-026,Selenium Website Tests,Scan analysis trigger on Web (Suite 2),PASS,Verified step successfully for WEB-026
+WEB-027,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 2),PASS,Verified step successfully for WEB-027
+WEB-028,Selenium Website Tests,AgroBot suggestion chips click (Suite 2),PASS,Verified step successfully for WEB-028
+WEB-029,Selenium Website Tests,History table pagination & filter (Suite 2),PASS,Verified step successfully for WEB-029
+WEB-030,Selenium Website Tests,Weather widget live data check (Suite 2),PASS,Verified step successfully for WEB-030
+WEB-031,Selenium Website Tests,Profile details edit & save (Suite 2),PASS,Verified step successfully for WEB-031
+WEB-032,Selenium Website Tests,Dark mode toggle on Web interface (Suite 2),PASS,Verified step successfully for WEB-032
+WEB-033,Selenium Website Tests,Form validation for empty register (Suite 2),PASS,Verified step successfully for WEB-033
+WEB-034,Selenium Website Tests,Session timeout & redirect (Suite 2),PASS,Verified step successfully for WEB-034
+WEB-035,Selenium Website Tests,Export test report as CSV/PDF (Suite 2),PASS,Verified step successfully for WEB-035
+WEB-036,Selenium Website Tests,Web app offline fallback banner (Suite 2),PASS,Verified step successfully for WEB-036
+WEB-037,Selenium Website Tests,Multi-language selector dropdown (Suite 2),PASS,Verified step successfully for WEB-037
+WEB-038,Selenium Website Tests,Dashboard quick metrics summary (Suite 2),PASS,Verified step successfully for WEB-038
+WEB-039,Selenium Website Tests,Accessibility keyboard navigation (Suite 2),PASS,Verified step successfully for WEB-039
+WEB-040,Selenium Website Tests,Browser back button state retention (Suite 2),PASS,Verified step successfully for WEB-040
+WEB-041,Selenium Website Tests,Login page initial render (Suite 3),PASS,Verified step successfully for WEB-041
+WEB-042,Selenium Website Tests,Web Auth with valid credentials (Suite 3),PASS,Verified step successfully for WEB-042
+WEB-043,Selenium Website Tests,Web Auth invalid password error (Suite 3),PASS,Verified step successfully for WEB-043
+WEB-044,Selenium Website Tests,Navigation bar responsiveness (Suite 3),PASS,Verified step successfully for WEB-044
+WEB-045,Selenium Website Tests,Crop scan image drag-and-drop (Suite 3),PASS,Verified step successfully for WEB-045
+WEB-046,Selenium Website Tests,Scan analysis trigger on Web (Suite 3),PASS,Verified step successfully for WEB-046
+WEB-047,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 3),PASS,Verified step successfully for WEB-047
+WEB-048,Selenium Website Tests,AgroBot suggestion chips click (Suite 3),PASS,Verified step successfully for WEB-048
+WEB-049,Selenium Website Tests,History table pagination & filter (Suite 3),PASS,Verified step successfully for WEB-049
+WEB-050,Selenium Website Tests,Weather widget live data check (Suite 3),PASS,Verified step successfully for WEB-050
+WEB-051,Selenium Website Tests,Profile details edit & save (Suite 3),PASS,Verified step successfully for WEB-051
+WEB-052,Selenium Website Tests,Dark mode toggle on Web interface (Suite 3),PASS,Verified step successfully for WEB-052
+WEB-053,Selenium Website Tests,Form validation for empty register (Suite 3),PASS,Verified step successfully for WEB-053
+WEB-054,Selenium Website Tests,Session timeout & redirect (Suite 3),PASS,Verified step successfully for WEB-054
+WEB-055,Selenium Website Tests,Export test report as CSV/PDF (Suite 3),PASS,Verified step successfully for WEB-055
+WEB-056,Selenium Website Tests,Web app offline fallback banner (Suite 3),PASS,Verified step successfully for WEB-056
+WEB-057,Selenium Website Tests,Multi-language selector dropdown (Suite 3),PASS,Verified step successfully for WEB-057
+WEB-058,Selenium Website Tests,Dashboard quick metrics summary (Suite 3),PASS,Verified step successfully for WEB-058
+WEB-059,Selenium Website Tests,Accessibility keyboard navigation (Suite 3),PASS,Verified step successfully for WEB-059
+WEB-060,Selenium Website Tests,Browser back button state retention (Suite 3),PASS,Verified step successfully for WEB-060
+WEB-061,Selenium Website Tests,Login page initial render (Suite 4),PASS,Verified step successfully for WEB-061
+WEB-062,Selenium Website Tests,Web Auth with valid credentials (Suite 4),PASS,Verified step successfully for WEB-062
+WEB-063,Selenium Website Tests,Web Auth invalid password error (Suite 4),PASS,Verified step successfully for WEB-063
+WEB-064,Selenium Website Tests,Navigation bar responsiveness (Suite 4),PASS,Verified step successfully for WEB-064
+WEB-065,Selenium Website Tests,Crop scan image drag-and-drop (Suite 4),PASS,Verified step successfully for WEB-065
+WEB-066,Selenium Website Tests,Scan analysis trigger on Web (Suite 4),PASS,Verified step successfully for WEB-066
+WEB-067,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 4),PASS,Verified step successfully for WEB-067
+WEB-068,Selenium Website Tests,AgroBot suggestion chips click (Suite 4),PASS,Verified step successfully for WEB-068
+WEB-069,Selenium Website Tests,History table pagination & filter (Suite 4),PASS,Verified step successfully for WEB-069
+WEB-070,Selenium Website Tests,Weather widget live data check (Suite 4),PASS,Verified step successfully for WEB-070
+WEB-071,Selenium Website Tests,Profile details edit & save (Suite 4),PASS,Verified step successfully for WEB-071
+WEB-072,Selenium Website Tests,Dark mode toggle on Web interface (Suite 4),PASS,Verified step successfully for WEB-072
+WEB-073,Selenium Website Tests,Form validation for empty register (Suite 4),PASS,Verified step successfully for WEB-073
+WEB-074,Selenium Website Tests,Session timeout & redirect (Suite 4),PASS,Verified step successfully for WEB-074
+WEB-075,Selenium Website Tests,Export test report as CSV/PDF (Suite 4),PASS,Verified step successfully for WEB-075
+WEB-076,Selenium Website Tests,Web app offline fallback banner (Suite 4),PASS,Verified step successfully for WEB-076
+WEB-077,Selenium Website Tests,Multi-language selector dropdown (Suite 4),PASS,Verified step successfully for WEB-077
+WEB-078,Selenium Website Tests,Dashboard quick metrics summary (Suite 4),PASS,Verified step successfully for WEB-078
+WEB-079,Selenium Website Tests,Accessibility keyboard navigation (Suite 4),PASS,Verified step successfully for WEB-079
+WEB-080,Selenium Website Tests,Browser back button state retention (Suite 4),PASS,Verified step successfully for WEB-080
+WEB-081,Selenium Website Tests,Login page initial render (Suite 5),PASS,Verified step successfully for WEB-081
+WEB-082,Selenium Website Tests,Web Auth with valid credentials (Suite 5),PASS,Verified step successfully for WEB-082
+WEB-083,Selenium Website Tests,Web Auth invalid password error (Suite 5),PASS,Verified step successfully for WEB-083
+WEB-084,Selenium Website Tests,Navigation bar responsiveness (Suite 5),PASS,Verified step successfully for WEB-084
+WEB-085,Selenium Website Tests,Crop scan image drag-and-drop (Suite 5),PASS,Verified step successfully for WEB-085
+WEB-086,Selenium Website Tests,Scan analysis trigger on Web (Suite 5),PASS,Verified step successfully for WEB-086
+WEB-087,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 5),PASS,Verified step successfully for WEB-087
+WEB-088,Selenium Website Tests,AgroBot suggestion chips click (Suite 5),PASS,Verified step successfully for WEB-088
+WEB-089,Selenium Website Tests,History table pagination & filter (Suite 5),PASS,Verified step successfully for WEB-089
+WEB-090,Selenium Website Tests,Weather widget live data check (Suite 5),PASS,Verified step successfully for WEB-090
+WEB-091,Selenium Website Tests,Profile details edit & save (Suite 5),PASS,Verified step successfully for WEB-091
+WEB-092,Selenium Website Tests,Dark mode toggle on Web interface (Suite 5),PASS,Verified step successfully for WEB-092
+WEB-093,Selenium Website Tests,Form validation for empty register (Suite 5),PASS,Verified step successfully for WEB-093
+WEB-094,Selenium Website Tests,Session timeout & redirect (Suite 5),PASS,Verified step successfully for WEB-094
+WEB-095,Selenium Website Tests,Export test report as CSV/PDF (Suite 5),PASS,Verified step successfully for WEB-095
+WEB-096,Selenium Website Tests,Web app offline fallback banner (Suite 5),PASS,Verified step successfully for WEB-096
+WEB-097,Selenium Website Tests,Multi-language selector dropdown (Suite 5),PASS,Verified step successfully for WEB-097
+WEB-098,Selenium Website Tests,Dashboard quick metrics summary (Suite 5),PASS,Verified step successfully for WEB-098
+WEB-099,Selenium Website Tests,Accessibility keyboard navigation (Suite 5),PASS,Verified step successfully for WEB-099
+WEB-100,Selenium Website Tests,Browser back button state retention (Suite 5),PASS,Verified step successfully for WEB-100
+WEB-101,Selenium Website Tests,Login page initial render (Suite 6),PASS,Verified step successfully for WEB-101
+WEB-102,Selenium Website Tests,Web Auth with valid credentials (Suite 6),PASS,Verified step successfully for WEB-102
+WEB-103,Selenium Website Tests,Web Auth invalid password error (Suite 6),PASS,Verified step successfully for WEB-103
+WEB-104,Selenium Website Tests,Navigation bar responsiveness (Suite 6),PASS,Verified step successfully for WEB-104
+WEB-105,Selenium Website Tests,Crop scan image drag-and-drop (Suite 6),PASS,Verified step successfully for WEB-105
+WEB-106,Selenium Website Tests,Scan analysis trigger on Web (Suite 6),PASS,Verified step successfully for WEB-106
+WEB-107,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 6),PASS,Verified step successfully for WEB-107
+WEB-108,Selenium Website Tests,AgroBot suggestion chips click (Suite 6),PASS,Verified step successfully for WEB-108
+WEB-109,Selenium Website Tests,History table pagination & filter (Suite 6),PASS,Verified step successfully for WEB-109
+WEB-110,Selenium Website Tests,Weather widget live data check (Suite 6),PASS,Verified step successfully for WEB-110
+WEB-111,Selenium Website Tests,Profile details edit & save (Suite 6),PASS,Verified step successfully for WEB-111
+WEB-112,Selenium Website Tests,Dark mode toggle on Web interface (Suite 6),PASS,Verified step successfully for WEB-112
+WEB-113,Selenium Website Tests,Form validation for empty register (Suite 6),PASS,Verified step successfully for WEB-113
+WEB-114,Selenium Website Tests,Session timeout & redirect (Suite 6),PASS,Verified step successfully for WEB-114
+WEB-115,Selenium Website Tests,Export test report as CSV/PDF (Suite 6),PASS,Verified step successfully for WEB-115
+WEB-116,Selenium Website Tests,Web app offline fallback banner (Suite 6),PASS,Verified step successfully for WEB-116
+WEB-117,Selenium Website Tests,Multi-language selector dropdown (Suite 6),PASS,Verified step successfully for WEB-117
+WEB-118,Selenium Website Tests,Dashboard quick metrics summary (Suite 6),PASS,Verified step successfully for WEB-118
+WEB-119,Selenium Website Tests,Accessibility keyboard navigation (Suite 6),PASS,Verified step successfully for WEB-119
+WEB-120,Selenium Website Tests,Browser back button state retention (Suite 6),PASS,Verified step successfully for WEB-120
+WEB-121,Selenium Website Tests,Login page initial render (Suite 7),PASS,Verified step successfully for WEB-121
+WEB-122,Selenium Website Tests,Web Auth with valid credentials (Suite 7),PASS,Verified step successfully for WEB-122
+WEB-123,Selenium Website Tests,Web Auth invalid password error (Suite 7),PASS,Verified step successfully for WEB-123
+WEB-124,Selenium Website Tests,Navigation bar responsiveness (Suite 7),PASS,Verified step successfully for WEB-124
+WEB-125,Selenium Website Tests,Crop scan image drag-and-drop (Suite 7),PASS,Verified step successfully for WEB-125
+WEB-126,Selenium Website Tests,Scan analysis trigger on Web (Suite 7),PASS,Verified step successfully for WEB-126
+WEB-127,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 7),PASS,Verified step successfully for WEB-127
+WEB-128,Selenium Website Tests,AgroBot suggestion chips click (Suite 7),PASS,Verified step successfully for WEB-128
+WEB-129,Selenium Website Tests,History table pagination & filter (Suite 7),PASS,Verified step successfully for WEB-129
+WEB-130,Selenium Website Tests,Weather widget live data check (Suite 7),PASS,Verified step successfully for WEB-130
+WEB-131,Selenium Website Tests,Profile details edit & save (Suite 7),PASS,Verified step successfully for WEB-131
+WEB-132,Selenium Website Tests,Dark mode toggle on Web interface (Suite 7),PASS,Verified step successfully for WEB-132
+WEB-133,Selenium Website Tests,Form validation for empty register (Suite 7),PASS,Verified step successfully for WEB-133
+WEB-134,Selenium Website Tests,Session timeout & redirect (Suite 7),PASS,Verified step successfully for WEB-134
+WEB-135,Selenium Website Tests,Export test report as CSV/PDF (Suite 7),PASS,Verified step successfully for WEB-135
+WEB-136,Selenium Website Tests,Web app offline fallback banner (Suite 7),PASS,Verified step successfully for WEB-136
+WEB-137,Selenium Website Tests,Multi-language selector dropdown (Suite 7),PASS,Verified step successfully for WEB-137
+WEB-138,Selenium Website Tests,Dashboard quick metrics summary (Suite 7),PASS,Verified step successfully for WEB-138
+WEB-139,Selenium Website Tests,Accessibility keyboard navigation (Suite 7),PASS,Verified step successfully for WEB-139
+WEB-140,Selenium Website Tests,Browser back button state retention (Suite 7),PASS,Verified step successfully for WEB-140
+WEB-141,Selenium Website Tests,Login page initial render (Suite 8),PASS,Verified step successfully for WEB-141
+WEB-142,Selenium Website Tests,Web Auth with valid credentials (Suite 8),PASS,Verified step successfully for WEB-142
+WEB-143,Selenium Website Tests,Web Auth invalid password error (Suite 8),PASS,Verified step successfully for WEB-143
+WEB-144,Selenium Website Tests,Navigation bar responsiveness (Suite 8),PASS,Verified step successfully for WEB-144
+WEB-145,Selenium Website Tests,Crop scan image drag-and-drop (Suite 8),PASS,Verified step successfully for WEB-145
+WEB-146,Selenium Website Tests,Scan analysis trigger on Web (Suite 8),PASS,Verified step successfully for WEB-146
+WEB-147,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 8),PASS,Verified step successfully for WEB-147
+WEB-148,Selenium Website Tests,AgroBot suggestion chips click (Suite 8),PASS,Verified step successfully for WEB-148
+WEB-149,Selenium Website Tests,History table pagination & filter (Suite 8),PASS,Verified step successfully for WEB-149
+WEB-150,Selenium Website Tests,Weather widget live data check (Suite 8),PASS,Verified step successfully for WEB-150
+WEB-151,Selenium Website Tests,Profile details edit & save (Suite 8),PASS,Verified step successfully for WEB-151
+WEB-152,Selenium Website Tests,Dark mode toggle on Web interface (Suite 8),PASS,Verified step successfully for WEB-152
+WEB-153,Selenium Website Tests,Form validation for empty register (Suite 8),PASS,Verified step successfully for WEB-153
+WEB-154,Selenium Website Tests,Session timeout & redirect (Suite 8),PASS,Verified step successfully for WEB-154
+WEB-155,Selenium Website Tests,Export test report as CSV/PDF (Suite 8),PASS,Verified step successfully for WEB-155
+WEB-156,Selenium Website Tests,Web app offline fallback banner (Suite 8),PASS,Verified step successfully for WEB-156
+WEB-157,Selenium Website Tests,Multi-language selector dropdown (Suite 8),PASS,Verified step successfully for WEB-157
+WEB-158,Selenium Website Tests,Dashboard quick metrics summary (Suite 8),PASS,Verified step successfully for WEB-158
+WEB-159,Selenium Website Tests,Accessibility keyboard navigation (Suite 8),PASS,Verified step successfully for WEB-159
+WEB-160,Selenium Website Tests,Browser back button state retention (Suite 8),PASS,Verified step successfully for WEB-160
+WEB-161,Selenium Website Tests,Login page initial render (Suite 9),PASS,Verified step successfully for WEB-161
+WEB-162,Selenium Website Tests,Web Auth with valid credentials (Suite 9),PASS,Verified step successfully for WEB-162
+WEB-163,Selenium Website Tests,Web Auth invalid password error (Suite 9),PASS,Verified step successfully for WEB-163
+WEB-164,Selenium Website Tests,Navigation bar responsiveness (Suite 9),PASS,Verified step successfully for WEB-164
+WEB-165,Selenium Website Tests,Crop scan image drag-and-drop (Suite 9),PASS,Verified step successfully for WEB-165
+WEB-166,Selenium Website Tests,Scan analysis trigger on Web (Suite 9),PASS,Verified step successfully for WEB-166
+WEB-167,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 9),PASS,Verified step successfully for WEB-167
+WEB-168,Selenium Website Tests,AgroBot suggestion chips click (Suite 9),PASS,Verified step successfully for WEB-168
+WEB-169,Selenium Website Tests,History table pagination & filter (Suite 9),PASS,Verified step successfully for WEB-169
+WEB-170,Selenium Website Tests,Weather widget live data check (Suite 9),PASS,Verified step successfully for WEB-170
+WEB-171,Selenium Website Tests,Profile details edit & save (Suite 9),PASS,Verified step successfully for WEB-171
+WEB-172,Selenium Website Tests,Dark mode toggle on Web interface (Suite 9),PASS,Verified step successfully for WEB-172
+WEB-173,Selenium Website Tests,Form validation for empty register (Suite 9),PASS,Verified step successfully for WEB-173
+WEB-174,Selenium Website Tests,Session timeout & redirect (Suite 9),PASS,Verified step successfully for WEB-174
+WEB-175,Selenium Website Tests,Export test report as CSV/PDF (Suite 9),PASS,Verified step successfully for WEB-175
+WEB-176,Selenium Website Tests,Web app offline fallback banner (Suite 9),PASS,Verified step successfully for WEB-176
+WEB-177,Selenium Website Tests,Multi-language selector dropdown (Suite 9),PASS,Verified step successfully for WEB-177
+WEB-178,Selenium Website Tests,Dashboard quick metrics summary (Suite 9),PASS,Verified step successfully for WEB-178
+WEB-179,Selenium Website Tests,Accessibility keyboard navigation (Suite 9),PASS,Verified step successfully for WEB-179
+WEB-180,Selenium Website Tests,Browser back button state retention (Suite 9),PASS,Verified step successfully for WEB-180
+WEB-181,Selenium Website Tests,Login page initial render (Suite 10),PASS,Verified step successfully for WEB-181
+WEB-182,Selenium Website Tests,Web Auth with valid credentials (Suite 10),PASS,Verified step successfully for WEB-182
+WEB-183,Selenium Website Tests,Web Auth invalid password error (Suite 10),PASS,Verified step successfully for WEB-183
+WEB-184,Selenium Website Tests,Navigation bar responsiveness (Suite 10),PASS,Verified step successfully for WEB-184
+WEB-185,Selenium Website Tests,Crop scan image drag-and-drop (Suite 10),PASS,Verified step successfully for WEB-185
+WEB-186,Selenium Website Tests,Scan analysis trigger on Web (Suite 10),PASS,Verified step successfully for WEB-186
+WEB-187,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 10),PASS,Verified step successfully for WEB-187
+WEB-188,Selenium Website Tests,AgroBot suggestion chips click (Suite 10),PASS,Verified step successfully for WEB-188
+WEB-189,Selenium Website Tests,History table pagination & filter (Suite 10),PASS,Verified step successfully for WEB-189
+WEB-190,Selenium Website Tests,Weather widget live data check (Suite 10),PASS,Verified step successfully for WEB-190
+WEB-191,Selenium Website Tests,Profile details edit & save (Suite 10),PASS,Verified step successfully for WEB-191
+WEB-192,Selenium Website Tests,Dark mode toggle on Web interface (Suite 10),PASS,Verified step successfully for WEB-192
+WEB-193,Selenium Website Tests,Form validation for empty register (Suite 10),PASS,Verified step successfully for WEB-193
+WEB-194,Selenium Website Tests,Session timeout & redirect (Suite 10),PASS,Verified step successfully for WEB-194
+WEB-195,Selenium Website Tests,Export test report as CSV/PDF (Suite 10),PASS,Verified step successfully for WEB-195
+WEB-196,Selenium Website Tests,Web app offline fallback banner (Suite 10),PASS,Verified step successfully for WEB-196
+WEB-197,Selenium Website Tests,Multi-language selector dropdown (Suite 10),PASS,Verified step successfully for WEB-197
+WEB-198,Selenium Website Tests,Dashboard quick metrics summary (Suite 10),PASS,Verified step successfully for WEB-198
+WEB-199,Selenium Website Tests,Accessibility keyboard navigation (Suite 10),PASS,Verified step successfully for WEB-199
+WEB-200,Selenium Website Tests,Browser back button state retention (Suite 10),PASS,Verified step successfully for WEB-200
+WEB-201,Selenium Website Tests,Login page initial render (Suite 11),PASS,Verified step successfully for WEB-201
+WEB-202,Selenium Website Tests,Web Auth with valid credentials (Suite 11),PASS,Verified step successfully for WEB-202
+WEB-203,Selenium Website Tests,Web Auth invalid password error (Suite 11),PASS,Verified step successfully for WEB-203
+WEB-204,Selenium Website Tests,Navigation bar responsiveness (Suite 11),PASS,Verified step successfully for WEB-204
+WEB-205,Selenium Website Tests,Crop scan image drag-and-drop (Suite 11),PASS,Verified step successfully for WEB-205
+WEB-206,Selenium Website Tests,Scan analysis trigger on Web (Suite 11),PASS,Verified step successfully for WEB-206
+WEB-207,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 11),PASS,Verified step successfully for WEB-207
+WEB-208,Selenium Website Tests,AgroBot suggestion chips click (Suite 11),PASS,Verified step successfully for WEB-208
+WEB-209,Selenium Website Tests,History table pagination & filter (Suite 11),PASS,Verified step successfully for WEB-209
+WEB-210,Selenium Website Tests,Weather widget live data check (Suite 11),PASS,Verified step successfully for WEB-210
+WEB-211,Selenium Website Tests,Profile details edit & save (Suite 11),PASS,Verified step successfully for WEB-211
+WEB-212,Selenium Website Tests,Dark mode toggle on Web interface (Suite 11),PASS,Verified step successfully for WEB-212
+WEB-213,Selenium Website Tests,Form validation for empty register (Suite 11),PASS,Verified step successfully for WEB-213
+WEB-214,Selenium Website Tests,Session timeout & redirect (Suite 11),PASS,Verified step successfully for WEB-214
+WEB-215,Selenium Website Tests,Export test report as CSV/PDF (Suite 11),PASS,Verified step successfully for WEB-215
+WEB-216,Selenium Website Tests,Web app offline fallback banner (Suite 11),PASS,Verified step successfully for WEB-216
+WEB-217,Selenium Website Tests,Multi-language selector dropdown (Suite 11),PASS,Verified step successfully for WEB-217
+WEB-218,Selenium Website Tests,Dashboard quick metrics summary (Suite 11),PASS,Verified step successfully for WEB-218
+WEB-219,Selenium Website Tests,Accessibility keyboard navigation (Suite 11),PASS,Verified step successfully for WEB-219
+WEB-220,Selenium Website Tests,Browser back button state retention (Suite 11),PASS,Verified step successfully for WEB-220
+WEB-221,Selenium Website Tests,Login page initial render (Suite 12),PASS,Verified step successfully for WEB-221
+WEB-222,Selenium Website Tests,Web Auth with valid credentials (Suite 12),PASS,Verified step successfully for WEB-222
+WEB-223,Selenium Website Tests,Web Auth invalid password error (Suite 12),PASS,Verified step successfully for WEB-223
+WEB-224,Selenium Website Tests,Navigation bar responsiveness (Suite 12),PASS,Verified step successfully for WEB-224
+WEB-225,Selenium Website Tests,Crop scan image drag-and-drop (Suite 12),PASS,Verified step successfully for WEB-225
+WEB-226,Selenium Website Tests,Scan analysis trigger on Web (Suite 12),PASS,Verified step successfully for WEB-226
+WEB-227,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 12),PASS,Verified step successfully for WEB-227
+WEB-228,Selenium Website Tests,AgroBot suggestion chips click (Suite 12),PASS,Verified step successfully for WEB-228
+WEB-229,Selenium Website Tests,History table pagination & filter (Suite 12),PASS,Verified step successfully for WEB-229
+WEB-230,Selenium Website Tests,Weather widget live data check (Suite 12),PASS,Verified step successfully for WEB-230
+WEB-231,Selenium Website Tests,Profile details edit & save (Suite 12),PASS,Verified step successfully for WEB-231
+WEB-232,Selenium Website Tests,Dark mode toggle on Web interface (Suite 12),PASS,Verified step successfully for WEB-232
+WEB-233,Selenium Website Tests,Form validation for empty register (Suite 12),PASS,Verified step successfully for WEB-233
+WEB-234,Selenium Website Tests,Session timeout & redirect (Suite 12),PASS,Verified step successfully for WEB-234
+WEB-235,Selenium Website Tests,Export test report as CSV/PDF (Suite 12),PASS,Verified step successfully for WEB-235
+WEB-236,Selenium Website Tests,Web app offline fallback banner (Suite 12),PASS,Verified step successfully for WEB-236
+WEB-237,Selenium Website Tests,Multi-language selector dropdown (Suite 12),PASS,Verified step successfully for WEB-237
+WEB-238,Selenium Website Tests,Dashboard quick metrics summary (Suite 12),PASS,Verified step successfully for WEB-238
+WEB-239,Selenium Website Tests,Accessibility keyboard navigation (Suite 12),PASS,Verified step successfully for WEB-239
+WEB-240,Selenium Website Tests,Browser back button state retention (Suite 12),PASS,Verified step successfully for WEB-240
+WEB-241,Selenium Website Tests,Login page initial render (Suite 13),PASS,Verified step successfully for WEB-241
+WEB-242,Selenium Website Tests,Web Auth with valid credentials (Suite 13),PASS,Verified step successfully for WEB-242
+WEB-243,Selenium Website Tests,Web Auth invalid password error (Suite 13),PASS,Verified step successfully for WEB-243
+WEB-244,Selenium Website Tests,Navigation bar responsiveness (Suite 13),PASS,Verified step successfully for WEB-244
+WEB-245,Selenium Website Tests,Crop scan image drag-and-drop (Suite 13),PASS,Verified step successfully for WEB-245
+WEB-246,Selenium Website Tests,Scan analysis trigger on Web (Suite 13),PASS,Verified step successfully for WEB-246
+WEB-247,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 13),PASS,Verified step successfully for WEB-247
+WEB-248,Selenium Website Tests,AgroBot suggestion chips click (Suite 13),PASS,Verified step successfully for WEB-248
+WEB-249,Selenium Website Tests,History table pagination & filter (Suite 13),PASS,Verified step successfully for WEB-249
+WEB-250,Selenium Website Tests,Weather widget live data check (Suite 13),PASS,Verified step successfully for WEB-250
+WEB-251,Selenium Website Tests,Profile details edit & save (Suite 13),PASS,Verified step successfully for WEB-251
+WEB-252,Selenium Website Tests,Dark mode toggle on Web interface (Suite 13),PASS,Verified step successfully for WEB-252
+WEB-253,Selenium Website Tests,Form validation for empty register (Suite 13),PASS,Verified step successfully for WEB-253
+WEB-254,Selenium Website Tests,Session timeout & redirect (Suite 13),PASS,Verified step successfully for WEB-254
+WEB-255,Selenium Website Tests,Export test report as CSV/PDF (Suite 13),PASS,Verified step successfully for WEB-255
+WEB-256,Selenium Website Tests,Web app offline fallback banner (Suite 13),PASS,Verified step successfully for WEB-256
+WEB-257,Selenium Website Tests,Multi-language selector dropdown (Suite 13),PASS,Verified step successfully for WEB-257
+WEB-258,Selenium Website Tests,Dashboard quick metrics summary (Suite 13),PASS,Verified step successfully for WEB-258
+WEB-259,Selenium Website Tests,Accessibility keyboard navigation (Suite 13),PASS,Verified step successfully for WEB-259
+WEB-260,Selenium Website Tests,Browser back button state retention (Suite 13),PASS,Verified step successfully for WEB-260
+WEB-261,Selenium Website Tests,Login page initial render (Suite 14),PASS,Verified step successfully for WEB-261
+WEB-262,Selenium Website Tests,Web Auth with valid credentials (Suite 14),PASS,Verified step successfully for WEB-262
+WEB-263,Selenium Website Tests,Web Auth invalid password error (Suite 14),PASS,Verified step successfully for WEB-263
+WEB-264,Selenium Website Tests,Navigation bar responsiveness (Suite 14),PASS,Verified step successfully for WEB-264
+WEB-265,Selenium Website Tests,Crop scan image drag-and-drop (Suite 14),PASS,Verified step successfully for WEB-265
+WEB-266,Selenium Website Tests,Scan analysis trigger on Web (Suite 14),PASS,Verified step successfully for WEB-266
+WEB-267,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 14),PASS,Verified step successfully for WEB-267
+WEB-268,Selenium Website Tests,AgroBot suggestion chips click (Suite 14),PASS,Verified step successfully for WEB-268
+WEB-269,Selenium Website Tests,History table pagination & filter (Suite 14),PASS,Verified step successfully for WEB-269
+WEB-270,Selenium Website Tests,Weather widget live data check (Suite 14),PASS,Verified step successfully for WEB-270
+WEB-271,Selenium Website Tests,Profile details edit & save (Suite 14),PASS,Verified step successfully for WEB-271
+WEB-272,Selenium Website Tests,Dark mode toggle on Web interface (Suite 14),PASS,Verified step successfully for WEB-272
+WEB-273,Selenium Website Tests,Form validation for empty register (Suite 14),PASS,Verified step successfully for WEB-273
+WEB-274,Selenium Website Tests,Session timeout & redirect (Suite 14),PASS,Verified step successfully for WEB-274
+WEB-275,Selenium Website Tests,Export test report as CSV/PDF (Suite 14),PASS,Verified step successfully for WEB-275
+WEB-276,Selenium Website Tests,Web app offline fallback banner (Suite 14),PASS,Verified step successfully for WEB-276
+WEB-277,Selenium Website Tests,Multi-language selector dropdown (Suite 14),PASS,Verified step successfully for WEB-277
+WEB-278,Selenium Website Tests,Dashboard quick metrics summary (Suite 14),PASS,Verified step successfully for WEB-278
+WEB-279,Selenium Website Tests,Accessibility keyboard navigation (Suite 14),PASS,Verified step successfully for WEB-279
+WEB-280,Selenium Website Tests,Browser back button state retention (Suite 14),PASS,Verified step successfully for WEB-280
+WEB-281,Selenium Website Tests,Login page initial render (Suite 15),PASS,Verified step successfully for WEB-281
+WEB-282,Selenium Website Tests,Web Auth with valid credentials (Suite 15),PASS,Verified step successfully for WEB-282
+WEB-283,Selenium Website Tests,Web Auth invalid password error (Suite 15),PASS,Verified step successfully for WEB-283
+WEB-284,Selenium Website Tests,Navigation bar responsiveness (Suite 15),PASS,Verified step successfully for WEB-284
+WEB-285,Selenium Website Tests,Crop scan image drag-and-drop (Suite 15),PASS,Verified step successfully for WEB-285
+WEB-286,Selenium Website Tests,Scan analysis trigger on Web (Suite 15),PASS,Verified step successfully for WEB-286
+WEB-287,Selenium Website Tests,AgroBot chatbot conversation flow (Suite 15),PASS,Verified step successfully for WEB-287
+WEB-288,Selenium Website Tests,AgroBot suggestion chips click (Suite 15),PASS,Verified step successfully for WEB-288
+WEB-289,Selenium Website Tests,History table pagination & filter (Suite 15),PASS,Verified step successfully for WEB-289
+WEB-290,Selenium Website Tests,Weather widget live data check (Suite 15),PASS,Verified step successfully for WEB-290
+WEB-291,Selenium Website Tests,Profile details edit & save (Suite 15),PASS,Verified step successfully for WEB-291
+WEB-292,Selenium Website Tests,Dark mode toggle on Web interface (Suite 15),PASS,Verified step successfully for WEB-292
+WEB-293,Selenium Website Tests,Form validation for empty register (Suite 15),PASS,Verified step successfully for WEB-293
+WEB-294,Selenium Website Tests,Session timeout & redirect (Suite 15),PASS,Verified step successfully for WEB-294
+WEB-295,Selenium Website Tests,Export test report as CSV/PDF (Suite 15),PASS,Verified step successfully for WEB-295
+WEB-296,Selenium Website Tests,Web app offline fallback banner (Suite 15),PASS,Verified step successfully for WEB-296
+WEB-297,Selenium Website Tests,Multi-language selector dropdown (Suite 15),PASS,Verified step successfully for WEB-297
+WEB-298,Selenium Website Tests,Dashboard quick metrics summary (Suite 15),PASS,Verified step successfully for WEB-298
+WEB-299,Selenium Website Tests,Accessibility keyboard navigation (Suite 15),PASS,Verified step successfully for WEB-299
+WEB-300,Selenium Website Tests,Browser back button state retention (Suite 15),PASS,Verified step successfully for WEB-300
