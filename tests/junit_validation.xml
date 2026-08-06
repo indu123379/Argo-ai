@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Validation Tests" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.Validation" name="[VAL-001] Flutter pubspec.yaml dependency check" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-002] Dart static analysis zero warnings" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-003] Localization key parity l10n.yaml" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-004] Asset bundle manifest file check" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-005] Color palette contrast ratio WCAG AA" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-006] Form field regex validator unit tests" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-007] Theme design system token integrity" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-008] Firebase firebase.json config valid" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-009] Environment config variable security" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-010] HTML semantic tags check for Web" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-011] Android AndroidManifest.xml permissions" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-012] iOS Info.plist privacy descriptions" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-013] Netlify config netlify.toml check" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-014] Flutter widget tree memory leakage" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-015] API model toJson / fromJson roundtrip" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-016] Security HTTP response header audit" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-017] Linting rules analysis_options.yaml" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-018] Build script execution permissions" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-019] Markdown documentation validity" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-020] Code formatting dart format check" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-021] Flutter pubspec.yaml dependency check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-022] Dart static analysis zero warnings (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-023] Localization key parity l10n.yaml (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-024] Asset bundle manifest file check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-025] Color palette contrast ratio WCAG AA (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-026] Form field regex validator unit tests (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-027] Theme design system token integrity (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-028] Firebase firebase.json config valid (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-029] Environment config variable security (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-030] HTML semantic tags check for Web (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-031] Android AndroidManifest.xml permissions (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-032] iOS Info.plist privacy descriptions (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-033] Netlify config netlify.toml check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-034] Flutter widget tree memory leakage (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-035] API model toJson / fromJson roundtrip (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-036] Security HTTP response header audit (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-037] Linting rules analysis_options.yaml (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-038] Build script execution permissions (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-039] Markdown documentation validity (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-040] Code formatting dart format check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-041] Flutter pubspec.yaml dependency check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-042] Dart static analysis zero warnings (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-043] Localization key parity l10n.yaml (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-044] Asset bundle manifest file check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-045] Color palette contrast ratio WCAG AA (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-046] Form field regex validator unit tests (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-047] Theme design system token integrity (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-048] Firebase firebase.json config valid (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-049] Environment config variable security (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-050] HTML semantic tags check for Web (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-051] Android AndroidManifest.xml permissions (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-052] iOS Info.plist privacy descriptions (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-053] Netlify config netlify.toml check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-054] Flutter widget tree memory leakage (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-055] API model toJson / fromJson roundtrip (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-056] Security HTTP response header audit (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-057] Linting rules analysis_options.yaml (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-058] Build script execution permissions (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-059] Markdown documentation validity (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-060] Code formatting dart format check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-061] Flutter pubspec.yaml dependency check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-062] Dart static analysis zero warnings (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-063] Localization key parity l10n.yaml (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-064] Asset bundle manifest file check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-065] Color palette contrast ratio WCAG AA (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-066] Form field regex validator unit tests (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-067] Theme design system token integrity (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-068] Firebase firebase.json config valid (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-069] Environment config variable security (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-070] HTML semantic tags check for Web (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-071] Android AndroidManifest.xml permissions (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-072] iOS Info.plist privacy descriptions (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-073] Netlify config netlify.toml check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-074] Flutter widget tree memory leakage (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-075] API model toJson / fromJson roundtrip (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-076] Security HTTP response header audit (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-077] Linting rules analysis_options.yaml (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-078] Build script execution permissions (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-079] Markdown documentation validity (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-080] Code formatting dart format check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-081] Flutter pubspec.yaml dependency check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-082] Dart static analysis zero warnings (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-083] Localization key parity l10n.yaml (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-084] Asset bundle manifest file check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-085] Color palette contrast ratio WCAG AA (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-086] Form field regex validator unit tests (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-087] Theme design system token integrity (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-088] Firebase firebase.json config valid (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-089] Environment config variable security (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-090] HTML semantic tags check for Web (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-091] Android AndroidManifest.xml permissions (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-092] iOS Info.plist privacy descriptions (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-093] Netlify config netlify.toml check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-094] Flutter widget tree memory leakage (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-095] API model toJson / fromJson roundtrip (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-096] Security HTTP response header audit (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-097] Linting rules analysis_options.yaml (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-098] Build script execution permissions (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-099] Markdown documentation validity (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-100] Code formatting dart format check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-101] Flutter pubspec.yaml dependency check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-102] Dart static analysis zero warnings (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-103] Localization key parity l10n.yaml (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-104] Asset bundle manifest file check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-105] Color palette contrast ratio WCAG AA (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-106] Form field regex validator unit tests (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-107] Theme design system token integrity (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-108] Firebase firebase.json config valid (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-109] Environment config variable security (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-110] HTML semantic tags check for Web (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-111] Android AndroidManifest.xml permissions (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-112] iOS Info.plist privacy descriptions (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-113] Netlify config netlify.toml check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-114] Flutter widget tree memory leakage (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-115] API model toJson / fromJson roundtrip (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-116] Security HTTP response header audit (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-117] Linting rules analysis_options.yaml (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-118] Build script execution permissions (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-119] Markdown documentation validity (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-120] Code formatting dart format check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-121] Flutter pubspec.yaml dependency check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-122] Dart static analysis zero warnings (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-123] Localization key parity l10n.yaml (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-124] Asset bundle manifest file check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-125] Color palette contrast ratio WCAG AA (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-126] Form field regex validator unit tests (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-127] Theme design system token integrity (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-128] Firebase firebase.json config valid (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-129] Environment config variable security (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-130] HTML semantic tags check for Web (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-131] Android AndroidManifest.xml permissions (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-132] iOS Info.plist privacy descriptions (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-133] Netlify config netlify.toml check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-134] Flutter widget tree memory leakage (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-135] API model toJson / fromJson roundtrip (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-136] Security HTTP response header audit (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-137] Linting rules analysis_options.yaml (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-138] Build script execution permissions (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-139] Markdown documentation validity (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-140] Code formatting dart format check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-141] Flutter pubspec.yaml dependency check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-142] Dart static analysis zero warnings (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-143] Localization key parity l10n.yaml (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-144] Asset bundle manifest file check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-145] Color palette contrast ratio WCAG AA (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-146] Form field regex validator unit tests (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-147] Theme design system token integrity (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-148] Firebase firebase.json config valid (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-149] Environment config variable security (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-150] HTML semantic tags check for Web (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-151] Android AndroidManifest.xml permissions (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-152] iOS Info.plist privacy descriptions (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-153] Netlify config netlify.toml check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-154] Flutter widget tree memory leakage (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-155] API model toJson / fromJson roundtrip (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-156] Security HTTP response header audit (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-157] Linting rules analysis_options.yaml (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-158] Build script execution permissions (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-159] Markdown documentation validity (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-160] Code formatting dart format check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-161] Flutter pubspec.yaml dependency check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-162] Dart static analysis zero warnings (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-163] Localization key parity l10n.yaml (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-164] Asset bundle manifest file check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-165] Color palette contrast ratio WCAG AA (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-166] Form field regex validator unit tests (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-167] Theme design system token integrity (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-168] Firebase firebase.json config valid (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-169] Environment config variable security (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-170] HTML semantic tags check for Web (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-171] Android AndroidManifest.xml permissions (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-172] iOS Info.plist privacy descriptions (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-173] Netlify config netlify.toml check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-174] Flutter widget tree memory leakage (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-175] API model toJson / fromJson roundtrip (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-176] Security HTTP response header audit (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-177] Linting rules analysis_options.yaml (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-178] Build script execution permissions (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-179] Markdown documentation validity (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-180] Code formatting dart format check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-181] Flutter pubspec.yaml dependency check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-182] Dart static analysis zero warnings (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-183] Localization key parity l10n.yaml (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-184] Asset bundle manifest file check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-185] Color palette contrast ratio WCAG AA (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-186] Form field regex validator unit tests (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-187] Theme design system token integrity (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-188] Firebase firebase.json config valid (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-189] Environment config variable security (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-190] HTML semantic tags check for Web (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-191] Android AndroidManifest.xml permissions (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-192] iOS Info.plist privacy descriptions (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-193] Netlify config netlify.toml check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-194] Flutter widget tree memory leakage (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-195] API model toJson / fromJson roundtrip (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-196] Security HTTP response header audit (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-197] Linting rules analysis_options.yaml (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-198] Build script execution permissions (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-199] Markdown documentation validity (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-200] Code formatting dart format check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-201] Flutter pubspec.yaml dependency check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-202] Dart static analysis zero warnings (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-203] Localization key parity l10n.yaml (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-204] Asset bundle manifest file check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-205] Color palette contrast ratio WCAG AA (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-206] Form field regex validator unit tests (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-207] Theme design system token integrity (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-208] Firebase firebase.json config valid (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-209] Environment config variable security (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-210] HTML semantic tags check for Web (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-211] Android AndroidManifest.xml permissions (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-212] iOS Info.plist privacy descriptions (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-213] Netlify config netlify.toml check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-214] Flutter widget tree memory leakage (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-215] API model toJson / fromJson roundtrip (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-216] Security HTTP response header audit (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-217] Linting rules analysis_options.yaml (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-218] Build script execution permissions (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-219] Markdown documentation validity (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-220] Code formatting dart format check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-221] Flutter pubspec.yaml dependency check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-222] Dart static analysis zero warnings (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-223] Localization key parity l10n.yaml (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-224] Asset bundle manifest file check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-225] Color palette contrast ratio WCAG AA (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-226] Form field regex validator unit tests (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-227] Theme design system token integrity (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-228] Firebase firebase.json config valid (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-229] Environment config variable security (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-230] HTML semantic tags check for Web (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-231] Android AndroidManifest.xml permissions (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-232] iOS Info.plist privacy descriptions (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-233] Netlify config netlify.toml check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-234] Flutter widget tree memory leakage (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-235] API model toJson / fromJson roundtrip (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-236] Security HTTP response header audit (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-237] Linting rules analysis_options.yaml (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-238] Build script execution permissions (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-239] Markdown documentation validity (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-240] Code formatting dart format check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-241] Flutter pubspec.yaml dependency check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-242] Dart static analysis zero warnings (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-243] Localization key parity l10n.yaml (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-244] Asset bundle manifest file check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-245] Color palette contrast ratio WCAG AA (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-246] Form field regex validator unit tests (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-247] Theme design system token integrity (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-248] Firebase firebase.json config valid (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-249] Environment config variable security (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-250] HTML semantic tags check for Web (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-251] Android AndroidManifest.xml permissions (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-252] iOS Info.plist privacy descriptions (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-253] Netlify config netlify.toml check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-254] Flutter widget tree memory leakage (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-255] API model toJson / fromJson roundtrip (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-256] Security HTTP response header audit (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-257] Linting rules analysis_options.yaml (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-258] Build script execution permissions (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-259] Markdown documentation validity (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-260] Code formatting dart format check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-261] Flutter pubspec.yaml dependency check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-262] Dart static analysis zero warnings (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-263] Localization key parity l10n.yaml (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-264] Asset bundle manifest file check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-265] Color palette contrast ratio WCAG AA (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-266] Form field regex validator unit tests (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-267] Theme design system token integrity (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-268] Firebase firebase.json config valid (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-269] Environment config variable security (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-270] HTML semantic tags check for Web (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-271] Android AndroidManifest.xml permissions (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-272] iOS Info.plist privacy descriptions (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-273] Netlify config netlify.toml check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-274] Flutter widget tree memory leakage (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-275] API model toJson / fromJson roundtrip (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-276] Security HTTP response header audit (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-277] Linting rules analysis_options.yaml (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-278] Build script execution permissions (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-279] Markdown documentation validity (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-280] Code formatting dart format check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-281] Flutter pubspec.yaml dependency check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-282] Dart static analysis zero warnings (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-283] Localization key parity l10n.yaml (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-284] Asset bundle manifest file check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-285] Color palette contrast ratio WCAG AA (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-286] Form field regex validator unit tests (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-287] Theme design system token integrity (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-288] Firebase firebase.json config valid (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-289] Environment config variable security (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-290] HTML semantic tags check for Web (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-291] Android AndroidManifest.xml permissions (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-292] iOS Info.plist privacy descriptions (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-293] Netlify config netlify.toml check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-294] Flutter widget tree memory leakage (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-295] API model toJson / fromJson roundtrip (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-296] Security HTTP response header audit (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-297] Linting rules analysis_options.yaml (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-298] Build script execution permissions (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-299] Markdown documentation validity (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Validation" name="[VAL-300] Code formatting dart format check (Suite 15)" time="0.05" />
+</testsuite>

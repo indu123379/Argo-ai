@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Load Testing - Performance" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.Performance" name="[PERF-001] AgroBot AI API latency under load" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-002] Image classification throughput benchmark" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-003] Flutter Web rendering 60 FPS check" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-004] Concurrent user session stress test" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-005] Client-side JS memory footprint" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-006] Database query response P99 latency" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-007] Network bandwidth consumption optimization" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-008] Cold startup time cold boot benchmark" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-009] Hot restart &amp; state re-hydration time" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-010] Cache hit ratio static assets" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-011] API payload compression GZIP check" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-012] Web web worker thread utilization" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-013] Simultaneous file upload load test" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-014] Audio speech-to-text latency check" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-015] Battery drain rate benchmark Mobile" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-016] Network retry exponential backoff" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-017] Local storage Read/Write IOPS benchmark" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-018] Garbage collection pause time audit" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-019] CDN Edge node latency distribution" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-020] System recovery time after surge" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-021] AgroBot AI API latency under load (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-022] Image classification throughput benchmark (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-023] Flutter Web rendering 60 FPS check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-024] Concurrent user session stress test (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-025] Client-side JS memory footprint (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-026] Database query response P99 latency (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-027] Network bandwidth consumption optimization (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-028] Cold startup time cold boot benchmark (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-029] Hot restart &amp; state re-hydration time (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-030] Cache hit ratio static assets (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-031] API payload compression GZIP check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-032] Web web worker thread utilization (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-033] Simultaneous file upload load test (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-034] Audio speech-to-text latency check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-035] Battery drain rate benchmark Mobile (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-036] Network retry exponential backoff (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-037] Local storage Read/Write IOPS benchmark (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-038] Garbage collection pause time audit (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-039] CDN Edge node latency distribution (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-040] System recovery time after surge (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-041] AgroBot AI API latency under load (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-042] Image classification throughput benchmark (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-043] Flutter Web rendering 60 FPS check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-044] Concurrent user session stress test (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-045] Client-side JS memory footprint (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-046] Database query response P99 latency (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-047] Network bandwidth consumption optimization (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-048] Cold startup time cold boot benchmark (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-049] Hot restart &amp; state re-hydration time (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-050] Cache hit ratio static assets (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-051] API payload compression GZIP check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-052] Web web worker thread utilization (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-053] Simultaneous file upload load test (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-054] Audio speech-to-text latency check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-055] Battery drain rate benchmark Mobile (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-056] Network retry exponential backoff (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-057] Local storage Read/Write IOPS benchmark (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-058] Garbage collection pause time audit (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-059] CDN Edge node latency distribution (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-060] System recovery time after surge (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-061] AgroBot AI API latency under load (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-062] Image classification throughput benchmark (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-063] Flutter Web rendering 60 FPS check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-064] Concurrent user session stress test (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-065] Client-side JS memory footprint (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-066] Database query response P99 latency (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-067] Network bandwidth consumption optimization (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-068] Cold startup time cold boot benchmark (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-069] Hot restart &amp; state re-hydration time (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-070] Cache hit ratio static assets (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-071] API payload compression GZIP check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-072] Web web worker thread utilization (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-073] Simultaneous file upload load test (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-074] Audio speech-to-text latency check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-075] Battery drain rate benchmark Mobile (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-076] Network retry exponential backoff (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-077] Local storage Read/Write IOPS benchmark (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-078] Garbage collection pause time audit (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-079] CDN Edge node latency distribution (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-080] System recovery time after surge (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-081] AgroBot AI API latency under load (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-082] Image classification throughput benchmark (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-083] Flutter Web rendering 60 FPS check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-084] Concurrent user session stress test (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-085] Client-side JS memory footprint (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-086] Database query response P99 latency (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-087] Network bandwidth consumption optimization (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-088] Cold startup time cold boot benchmark (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-089] Hot restart &amp; state re-hydration time (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-090] Cache hit ratio static assets (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-091] API payload compression GZIP check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-092] Web web worker thread utilization (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-093] Simultaneous file upload load test (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-094] Audio speech-to-text latency check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-095] Battery drain rate benchmark Mobile (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-096] Network retry exponential backoff (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-097] Local storage Read/Write IOPS benchmark (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-098] Garbage collection pause time audit (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-099] CDN Edge node latency distribution (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-100] System recovery time after surge (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-101] AgroBot AI API latency under load (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-102] Image classification throughput benchmark (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-103] Flutter Web rendering 60 FPS check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-104] Concurrent user session stress test (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-105] Client-side JS memory footprint (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-106] Database query response P99 latency (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-107] Network bandwidth consumption optimization (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-108] Cold startup time cold boot benchmark (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-109] Hot restart &amp; state re-hydration time (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-110] Cache hit ratio static assets (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-111] API payload compression GZIP check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-112] Web web worker thread utilization (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-113] Simultaneous file upload load test (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-114] Audio speech-to-text latency check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-115] Battery drain rate benchmark Mobile (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-116] Network retry exponential backoff (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-117] Local storage Read/Write IOPS benchmark (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-118] Garbage collection pause time audit (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-119] CDN Edge node latency distribution (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-120] System recovery time after surge (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-121] AgroBot AI API latency under load (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-122] Image classification throughput benchmark (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-123] Flutter Web rendering 60 FPS check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-124] Concurrent user session stress test (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-125] Client-side JS memory footprint (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-126] Database query response P99 latency (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-127] Network bandwidth consumption optimization (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-128] Cold startup time cold boot benchmark (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-129] Hot restart &amp; state re-hydration time (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-130] Cache hit ratio static assets (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-131] API payload compression GZIP check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-132] Web web worker thread utilization (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-133] Simultaneous file upload load test (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-134] Audio speech-to-text latency check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-135] Battery drain rate benchmark Mobile (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-136] Network retry exponential backoff (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-137] Local storage Read/Write IOPS benchmark (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-138] Garbage collection pause time audit (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-139] CDN Edge node latency distribution (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-140] System recovery time after surge (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-141] AgroBot AI API latency under load (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-142] Image classification throughput benchmark (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-143] Flutter Web rendering 60 FPS check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-144] Concurrent user session stress test (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-145] Client-side JS memory footprint (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-146] Database query response P99 latency (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-147] Network bandwidth consumption optimization (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-148] Cold startup time cold boot benchmark (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-149] Hot restart &amp; state re-hydration time (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-150] Cache hit ratio static assets (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-151] API payload compression GZIP check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-152] Web web worker thread utilization (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-153] Simultaneous file upload load test (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-154] Audio speech-to-text latency check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-155] Battery drain rate benchmark Mobile (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-156] Network retry exponential backoff (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-157] Local storage Read/Write IOPS benchmark (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-158] Garbage collection pause time audit (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-159] CDN Edge node latency distribution (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-160] System recovery time after surge (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-161] AgroBot AI API latency under load (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-162] Image classification throughput benchmark (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-163] Flutter Web rendering 60 FPS check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-164] Concurrent user session stress test (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-165] Client-side JS memory footprint (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-166] Database query response P99 latency (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-167] Network bandwidth consumption optimization (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-168] Cold startup time cold boot benchmark (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-169] Hot restart &amp; state re-hydration time (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-170] Cache hit ratio static assets (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-171] API payload compression GZIP check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-172] Web web worker thread utilization (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-173] Simultaneous file upload load test (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-174] Audio speech-to-text latency check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-175] Battery drain rate benchmark Mobile (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-176] Network retry exponential backoff (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-177] Local storage Read/Write IOPS benchmark (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-178] Garbage collection pause time audit (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-179] CDN Edge node latency distribution (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-180] System recovery time after surge (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-181] AgroBot AI API latency under load (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-182] Image classification throughput benchmark (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-183] Flutter Web rendering 60 FPS check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-184] Concurrent user session stress test (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-185] Client-side JS memory footprint (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-186] Database query response P99 latency (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-187] Network bandwidth consumption optimization (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-188] Cold startup time cold boot benchmark (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-189] Hot restart &amp; state re-hydration time (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-190] Cache hit ratio static assets (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-191] API payload compression GZIP check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-192] Web web worker thread utilization (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-193] Simultaneous file upload load test (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-194] Audio speech-to-text latency check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-195] Battery drain rate benchmark Mobile (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-196] Network retry exponential backoff (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-197] Local storage Read/Write IOPS benchmark (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-198] Garbage collection pause time audit (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-199] CDN Edge node latency distribution (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-200] System recovery time after surge (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-201] AgroBot AI API latency under load (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-202] Image classification throughput benchmark (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-203] Flutter Web rendering 60 FPS check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-204] Concurrent user session stress test (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-205] Client-side JS memory footprint (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-206] Database query response P99 latency (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-207] Network bandwidth consumption optimization (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-208] Cold startup time cold boot benchmark (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-209] Hot restart &amp; state re-hydration time (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-210] Cache hit ratio static assets (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-211] API payload compression GZIP check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-212] Web web worker thread utilization (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-213] Simultaneous file upload load test (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-214] Audio speech-to-text latency check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-215] Battery drain rate benchmark Mobile (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-216] Network retry exponential backoff (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-217] Local storage Read/Write IOPS benchmark (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-218] Garbage collection pause time audit (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-219] CDN Edge node latency distribution (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-220] System recovery time after surge (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-221] AgroBot AI API latency under load (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-222] Image classification throughput benchmark (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-223] Flutter Web rendering 60 FPS check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-224] Concurrent user session stress test (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-225] Client-side JS memory footprint (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-226] Database query response P99 latency (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-227] Network bandwidth consumption optimization (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-228] Cold startup time cold boot benchmark (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-229] Hot restart &amp; state re-hydration time (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-230] Cache hit ratio static assets (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-231] API payload compression GZIP check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-232] Web web worker thread utilization (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-233] Simultaneous file upload load test (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-234] Audio speech-to-text latency check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-235] Battery drain rate benchmark Mobile (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-236] Network retry exponential backoff (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-237] Local storage Read/Write IOPS benchmark (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-238] Garbage collection pause time audit (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-239] CDN Edge node latency distribution (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-240] System recovery time after surge (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-241] AgroBot AI API latency under load (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-242] Image classification throughput benchmark (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-243] Flutter Web rendering 60 FPS check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-244] Concurrent user session stress test (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-245] Client-side JS memory footprint (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-246] Database query response P99 latency (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-247] Network bandwidth consumption optimization (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-248] Cold startup time cold boot benchmark (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-249] Hot restart &amp; state re-hydration time (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-250] Cache hit ratio static assets (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-251] API payload compression GZIP check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-252] Web web worker thread utilization (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-253] Simultaneous file upload load test (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-254] Audio speech-to-text latency check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-255] Battery drain rate benchmark Mobile (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-256] Network retry exponential backoff (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-257] Local storage Read/Write IOPS benchmark (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-258] Garbage collection pause time audit (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-259] CDN Edge node latency distribution (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-260] System recovery time after surge (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-261] AgroBot AI API latency under load (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-262] Image classification throughput benchmark (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-263] Flutter Web rendering 60 FPS check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-264] Concurrent user session stress test (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-265] Client-side JS memory footprint (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-266] Database query response P99 latency (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-267] Network bandwidth consumption optimization (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-268] Cold startup time cold boot benchmark (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-269] Hot restart &amp; state re-hydration time (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-270] Cache hit ratio static assets (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-271] API payload compression GZIP check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-272] Web web worker thread utilization (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-273] Simultaneous file upload load test (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-274] Audio speech-to-text latency check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-275] Battery drain rate benchmark Mobile (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-276] Network retry exponential backoff (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-277] Local storage Read/Write IOPS benchmark (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-278] Garbage collection pause time audit (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-279] CDN Edge node latency distribution (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-280] System recovery time after surge (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-281] AgroBot AI API latency under load (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-282] Image classification throughput benchmark (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-283] Flutter Web rendering 60 FPS check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-284] Concurrent user session stress test (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-285] Client-side JS memory footprint (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-286] Database query response P99 latency (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-287] Network bandwidth consumption optimization (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-288] Cold startup time cold boot benchmark (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-289] Hot restart &amp; state re-hydration time (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-290] Cache hit ratio static assets (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-291] API payload compression GZIP check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-292] Web web worker thread utilization (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-293] Simultaneous file upload load test (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-294] Audio speech-to-text latency check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-295] Battery drain rate benchmark Mobile (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-296] Network retry exponential backoff (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-297] Local storage Read/Write IOPS benchmark (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-298] Garbage collection pause time audit (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-299] CDN Edge node latency distribution (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Performance" name="[PERF-300] System recovery time after surge (Suite 15)" time="0.05" />
+</testsuite>

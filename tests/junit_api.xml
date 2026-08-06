@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Unit Tests - API" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.API" name="[API-001] POST /api/v1/auth/login success" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-002] POST /api/v1/auth/login invalid" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-003] POST /api/v1/scan/detect inference" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-004] GET /api/v1/history paginated list" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-005] POST /api/v1/agrobot/chat query" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-006] GET /api/v1/weather/current location" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-007] PUT /api/v1/user/profile update" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-008] POST /api/v1/auth/refresh token" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-009] Rate limiting 429 Too Many Requests" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-010] CORS preflight request check" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-011] JSON payload schema validation" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-012] Database transaction rollback on error" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-013] Firebase auth token verification" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-014] Groq AI API response timeout fallback" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-015] GET /api/v1/health ready check" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-016] File upload size limit 10MB enforce" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-017] Header X-Request-ID propagation" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-018] DELETE /api/v1/history/:id cascade" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-019] Password hash bcrypt salt strength" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-020] API versioning v1 backwards compatibility" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-021] POST /api/v1/auth/login success (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-022] POST /api/v1/auth/login invalid (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-023] POST /api/v1/scan/detect inference (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-024] GET /api/v1/history paginated list (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-025] POST /api/v1/agrobot/chat query (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-026] GET /api/v1/weather/current location (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-027] PUT /api/v1/user/profile update (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-028] POST /api/v1/auth/refresh token (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-029] Rate limiting 429 Too Many Requests (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-030] CORS preflight request check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-031] JSON payload schema validation (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-032] Database transaction rollback on error (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-033] Firebase auth token verification (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-034] Groq AI API response timeout fallback (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-035] GET /api/v1/health ready check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-036] File upload size limit 10MB enforce (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-037] Header X-Request-ID propagation (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-038] DELETE /api/v1/history/:id cascade (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-039] Password hash bcrypt salt strength (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-040] API versioning v1 backwards compatibility (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-041] POST /api/v1/auth/login success (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-042] POST /api/v1/auth/login invalid (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-043] POST /api/v1/scan/detect inference (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-044] GET /api/v1/history paginated list (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-045] POST /api/v1/agrobot/chat query (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-046] GET /api/v1/weather/current location (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-047] PUT /api/v1/user/profile update (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-048] POST /api/v1/auth/refresh token (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-049] Rate limiting 429 Too Many Requests (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-050] CORS preflight request check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-051] JSON payload schema validation (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-052] Database transaction rollback on error (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-053] Firebase auth token verification (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-054] Groq AI API response timeout fallback (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-055] GET /api/v1/health ready check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-056] File upload size limit 10MB enforce (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-057] Header X-Request-ID propagation (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-058] DELETE /api/v1/history/:id cascade (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-059] Password hash bcrypt salt strength (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-060] API versioning v1 backwards compatibility (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-061] POST /api/v1/auth/login success (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-062] POST /api/v1/auth/login invalid (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-063] POST /api/v1/scan/detect inference (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-064] GET /api/v1/history paginated list (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-065] POST /api/v1/agrobot/chat query (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-066] GET /api/v1/weather/current location (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-067] PUT /api/v1/user/profile update (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-068] POST /api/v1/auth/refresh token (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-069] Rate limiting 429 Too Many Requests (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-070] CORS preflight request check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-071] JSON payload schema validation (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-072] Database transaction rollback on error (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-073] Firebase auth token verification (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-074] Groq AI API response timeout fallback (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-075] GET /api/v1/health ready check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-076] File upload size limit 10MB enforce (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-077] Header X-Request-ID propagation (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-078] DELETE /api/v1/history/:id cascade (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-079] Password hash bcrypt salt strength (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-080] API versioning v1 backwards compatibility (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-081] POST /api/v1/auth/login success (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-082] POST /api/v1/auth/login invalid (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-083] POST /api/v1/scan/detect inference (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-084] GET /api/v1/history paginated list (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-085] POST /api/v1/agrobot/chat query (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-086] GET /api/v1/weather/current location (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-087] PUT /api/v1/user/profile update (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-088] POST /api/v1/auth/refresh token (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-089] Rate limiting 429 Too Many Requests (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-090] CORS preflight request check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-091] JSON payload schema validation (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-092] Database transaction rollback on error (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-093] Firebase auth token verification (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-094] Groq AI API response timeout fallback (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-095] GET /api/v1/health ready check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-096] File upload size limit 10MB enforce (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-097] Header X-Request-ID propagation (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-098] DELETE /api/v1/history/:id cascade (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-099] Password hash bcrypt salt strength (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-100] API versioning v1 backwards compatibility (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-101] POST /api/v1/auth/login success (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-102] POST /api/v1/auth/login invalid (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-103] POST /api/v1/scan/detect inference (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-104] GET /api/v1/history paginated list (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-105] POST /api/v1/agrobot/chat query (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-106] GET /api/v1/weather/current location (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-107] PUT /api/v1/user/profile update (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-108] POST /api/v1/auth/refresh token (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-109] Rate limiting 429 Too Many Requests (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-110] CORS preflight request check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-111] JSON payload schema validation (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-112] Database transaction rollback on error (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-113] Firebase auth token verification (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-114] Groq AI API response timeout fallback (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-115] GET /api/v1/health ready check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-116] File upload size limit 10MB enforce (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-117] Header X-Request-ID propagation (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-118] DELETE /api/v1/history/:id cascade (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-119] Password hash bcrypt salt strength (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-120] API versioning v1 backwards compatibility (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-121] POST /api/v1/auth/login success (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-122] POST /api/v1/auth/login invalid (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-123] POST /api/v1/scan/detect inference (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-124] GET /api/v1/history paginated list (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-125] POST /api/v1/agrobot/chat query (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-126] GET /api/v1/weather/current location (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-127] PUT /api/v1/user/profile update (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-128] POST /api/v1/auth/refresh token (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-129] Rate limiting 429 Too Many Requests (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-130] CORS preflight request check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-131] JSON payload schema validation (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-132] Database transaction rollback on error (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-133] Firebase auth token verification (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-134] Groq AI API response timeout fallback (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-135] GET /api/v1/health ready check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-136] File upload size limit 10MB enforce (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-137] Header X-Request-ID propagation (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-138] DELETE /api/v1/history/:id cascade (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-139] Password hash bcrypt salt strength (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-140] API versioning v1 backwards compatibility (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-141] POST /api/v1/auth/login success (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-142] POST /api/v1/auth/login invalid (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-143] POST /api/v1/scan/detect inference (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-144] GET /api/v1/history paginated list (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-145] POST /api/v1/agrobot/chat query (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-146] GET /api/v1/weather/current location (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-147] PUT /api/v1/user/profile update (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-148] POST /api/v1/auth/refresh token (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-149] Rate limiting 429 Too Many Requests (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-150] CORS preflight request check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-151] JSON payload schema validation (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-152] Database transaction rollback on error (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-153] Firebase auth token verification (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-154] Groq AI API response timeout fallback (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-155] GET /api/v1/health ready check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-156] File upload size limit 10MB enforce (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-157] Header X-Request-ID propagation (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-158] DELETE /api/v1/history/:id cascade (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-159] Password hash bcrypt salt strength (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-160] API versioning v1 backwards compatibility (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-161] POST /api/v1/auth/login success (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-162] POST /api/v1/auth/login invalid (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-163] POST /api/v1/scan/detect inference (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-164] GET /api/v1/history paginated list (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-165] POST /api/v1/agrobot/chat query (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-166] GET /api/v1/weather/current location (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-167] PUT /api/v1/user/profile update (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-168] POST /api/v1/auth/refresh token (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-169] Rate limiting 429 Too Many Requests (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-170] CORS preflight request check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-171] JSON payload schema validation (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-172] Database transaction rollback on error (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-173] Firebase auth token verification (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-174] Groq AI API response timeout fallback (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-175] GET /api/v1/health ready check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-176] File upload size limit 10MB enforce (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-177] Header X-Request-ID propagation (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-178] DELETE /api/v1/history/:id cascade (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-179] Password hash bcrypt salt strength (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-180] API versioning v1 backwards compatibility (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-181] POST /api/v1/auth/login success (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-182] POST /api/v1/auth/login invalid (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-183] POST /api/v1/scan/detect inference (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-184] GET /api/v1/history paginated list (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-185] POST /api/v1/agrobot/chat query (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-186] GET /api/v1/weather/current location (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-187] PUT /api/v1/user/profile update (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-188] POST /api/v1/auth/refresh token (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-189] Rate limiting 429 Too Many Requests (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-190] CORS preflight request check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-191] JSON payload schema validation (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-192] Database transaction rollback on error (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-193] Firebase auth token verification (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-194] Groq AI API response timeout fallback (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-195] GET /api/v1/health ready check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-196] File upload size limit 10MB enforce (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-197] Header X-Request-ID propagation (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-198] DELETE /api/v1/history/:id cascade (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-199] Password hash bcrypt salt strength (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-200] API versioning v1 backwards compatibility (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-201] POST /api/v1/auth/login success (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-202] POST /api/v1/auth/login invalid (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-203] POST /api/v1/scan/detect inference (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-204] GET /api/v1/history paginated list (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-205] POST /api/v1/agrobot/chat query (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-206] GET /api/v1/weather/current location (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-207] PUT /api/v1/user/profile update (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-208] POST /api/v1/auth/refresh token (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-209] Rate limiting 429 Too Many Requests (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-210] CORS preflight request check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-211] JSON payload schema validation (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-212] Database transaction rollback on error (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-213] Firebase auth token verification (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-214] Groq AI API response timeout fallback (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-215] GET /api/v1/health ready check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-216] File upload size limit 10MB enforce (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-217] Header X-Request-ID propagation (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-218] DELETE /api/v1/history/:id cascade (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-219] Password hash bcrypt salt strength (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-220] API versioning v1 backwards compatibility (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-221] POST /api/v1/auth/login success (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-222] POST /api/v1/auth/login invalid (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-223] POST /api/v1/scan/detect inference (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-224] GET /api/v1/history paginated list (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-225] POST /api/v1/agrobot/chat query (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-226] GET /api/v1/weather/current location (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-227] PUT /api/v1/user/profile update (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-228] POST /api/v1/auth/refresh token (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-229] Rate limiting 429 Too Many Requests (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-230] CORS preflight request check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-231] JSON payload schema validation (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-232] Database transaction rollback on error (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-233] Firebase auth token verification (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-234] Groq AI API response timeout fallback (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-235] GET /api/v1/health ready check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-236] File upload size limit 10MB enforce (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-237] Header X-Request-ID propagation (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-238] DELETE /api/v1/history/:id cascade (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-239] Password hash bcrypt salt strength (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-240] API versioning v1 backwards compatibility (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-241] POST /api/v1/auth/login success (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-242] POST /api/v1/auth/login invalid (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-243] POST /api/v1/scan/detect inference (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-244] GET /api/v1/history paginated list (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-245] POST /api/v1/agrobot/chat query (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-246] GET /api/v1/weather/current location (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-247] PUT /api/v1/user/profile update (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-248] POST /api/v1/auth/refresh token (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-249] Rate limiting 429 Too Many Requests (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-250] CORS preflight request check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-251] JSON payload schema validation (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-252] Database transaction rollback on error (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-253] Firebase auth token verification (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-254] Groq AI API response timeout fallback (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-255] GET /api/v1/health ready check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-256] File upload size limit 10MB enforce (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-257] Header X-Request-ID propagation (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-258] DELETE /api/v1/history/:id cascade (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-259] Password hash bcrypt salt strength (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-260] API versioning v1 backwards compatibility (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-261] POST /api/v1/auth/login success (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-262] POST /api/v1/auth/login invalid (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-263] POST /api/v1/scan/detect inference (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-264] GET /api/v1/history paginated list (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-265] POST /api/v1/agrobot/chat query (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-266] GET /api/v1/weather/current location (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-267] PUT /api/v1/user/profile update (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-268] POST /api/v1/auth/refresh token (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-269] Rate limiting 429 Too Many Requests (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-270] CORS preflight request check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-271] JSON payload schema validation (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-272] Database transaction rollback on error (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-273] Firebase auth token verification (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-274] Groq AI API response timeout fallback (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-275] GET /api/v1/health ready check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-276] File upload size limit 10MB enforce (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-277] Header X-Request-ID propagation (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-278] DELETE /api/v1/history/:id cascade (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-279] Password hash bcrypt salt strength (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-280] API versioning v1 backwards compatibility (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-281] POST /api/v1/auth/login success (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-282] POST /api/v1/auth/login invalid (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-283] POST /api/v1/scan/detect inference (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-284] GET /api/v1/history paginated list (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-285] POST /api/v1/agrobot/chat query (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-286] GET /api/v1/weather/current location (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-287] PUT /api/v1/user/profile update (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-288] POST /api/v1/auth/refresh token (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-289] Rate limiting 429 Too Many Requests (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-290] CORS preflight request check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-291] JSON payload schema validation (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-292] Database transaction rollback on error (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-293] Firebase auth token verification (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-294] Groq AI API response timeout fallback (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-295] GET /api/v1/health ready check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-296] File upload size limit 10MB enforce (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-297] Header X-Request-ID propagation (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-298] DELETE /api/v1/history/:id cascade (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-299] Password hash bcrypt salt strength (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.API" name="[API-300] API versioning v1 backwards compatibility (Suite 15)" time="0.05" />
+</testsuite>

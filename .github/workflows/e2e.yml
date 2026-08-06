@@ -30,8 +30,17 @@ jobs:
       - name: Run Selenium Website Tests (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py selenium
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_selenium.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload Selenium CSV and XLSX Test Artifacts
         uses: actions/upload-artifact@v4
@@ -40,6 +49,7 @@ jobs:
           path: |
             tests/test_cases_selenium.csv
             tests/results_selenium.csv
+            tests/junit_selenium.xml
             tests/test_report.xlsx
 
   appium-android-tests:
@@ -62,8 +72,17 @@ jobs:
       - name: Run Appium Android Tests (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py appium
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_appium.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload Appium CSV and XLSX Test Artifacts
         uses: actions/upload-artifact@v4
@@ -72,6 +91,7 @@ jobs:
           path: |
             tests/test_cases_appium.csv
             tests/results_appium.csv
+            tests/junit_appium.xml
             tests/test_report.xlsx
 
   unit-tests-api:
@@ -94,8 +114,17 @@ jobs:
       - name: Run API Unit Tests (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py api
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_api.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload API Unit Test CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
@@ -104,6 +133,7 @@ jobs:
           path: |
             tests/test_cases_api.csv
             tests/results_api.csv
+            tests/junit_api.xml
             tests/test_report.xlsx
 
   validation-tests:
@@ -126,8 +156,17 @@ jobs:
       - name: Run Validation Tests (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py validation
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_validation.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload Validation Test CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
@@ -136,6 +175,7 @@ jobs:
           path: |
             tests/test_cases_validation.csv
             tests/results_validation.csv
+            tests/junit_validation.xml
             tests/test_report.xlsx
 
   deployment-status:
@@ -158,8 +198,17 @@ jobs:
       - name: Run Deployment Status Checks (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py deployment
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_deployment.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload Deployment Status CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
@@ -168,6 +217,7 @@ jobs:
           path: |
             tests/test_cases_deployment.csv
             tests/results_deployment.csv
+            tests/junit_deployment.xml
             tests/test_report.xlsx
 
   load-testing-performance:
@@ -190,8 +240,17 @@ jobs:
       - name: Run Performance Load Tests (300)
         run: |
           python tests/generate_app_test_cases.py
-          python tests/ci_generate_results.py
+          python tests/ci_generate_results.py performance
+          python tests/generate_junit_xml.py
           python tests/generate_report.py
+
+      - name: Publish Test Results in GitHub Actions UI
+        uses: mikepenz/action-junit-report@v4
+        if: always()
+        with:
+          report_paths: 'tests/junit_performance.xml'
+          detailed_summary: true
+          include_passed: true
 
       - name: Upload Full Downloadable XLSX and CSV Test Report Artifacts
         uses: actions/upload-artifact@v4
@@ -201,3 +260,4 @@ jobs:
             tests/test_report.xlsx
             tests/test_cases_*.csv
             tests/results_*.csv
+            tests/junit_*.xml

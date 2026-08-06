@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Selenium Website Tests" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.Selenium" name="[WEB-001] Login page initial render" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-002] Web Auth with valid credentials" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-003] Web Auth invalid password error" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-004] Navigation bar responsiveness" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-005] Crop scan image drag-and-drop" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-006] Scan analysis trigger on Web" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-007] AgroBot chatbot conversation flow" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-008] AgroBot suggestion chips click" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-009] History table pagination &amp; filter" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-010] Weather widget live data check" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-011] Profile details edit &amp; save" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-012] Dark mode toggle on Web interface" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-013] Form validation for empty register" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-014] Session timeout &amp; redirect" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-015] Export test report as CSV/PDF" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-016] Web app offline fallback banner" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-017] Multi-language selector dropdown" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-018] Dashboard quick metrics summary" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-019] Accessibility keyboard navigation" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-020] Browser back button state retention" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-021] Login page initial render (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-022] Web Auth with valid credentials (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-023] Web Auth invalid password error (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-024] Navigation bar responsiveness (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-025] Crop scan image drag-and-drop (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-026] Scan analysis trigger on Web (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-027] AgroBot chatbot conversation flow (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-028] AgroBot suggestion chips click (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-029] History table pagination &amp; filter (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-030] Weather widget live data check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-031] Profile details edit &amp; save (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-032] Dark mode toggle on Web interface (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-033] Form validation for empty register (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-034] Session timeout &amp; redirect (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-035] Export test report as CSV/PDF (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-036] Web app offline fallback banner (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-037] Multi-language selector dropdown (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-038] Dashboard quick metrics summary (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-039] Accessibility keyboard navigation (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-040] Browser back button state retention (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-041] Login page initial render (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-042] Web Auth with valid credentials (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-043] Web Auth invalid password error (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-044] Navigation bar responsiveness (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-045] Crop scan image drag-and-drop (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-046] Scan analysis trigger on Web (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-047] AgroBot chatbot conversation flow (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-048] AgroBot suggestion chips click (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-049] History table pagination &amp; filter (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-050] Weather widget live data check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-051] Profile details edit &amp; save (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-052] Dark mode toggle on Web interface (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-053] Form validation for empty register (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-054] Session timeout &amp; redirect (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-055] Export test report as CSV/PDF (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-056] Web app offline fallback banner (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-057] Multi-language selector dropdown (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-058] Dashboard quick metrics summary (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-059] Accessibility keyboard navigation (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-060] Browser back button state retention (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-061] Login page initial render (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-062] Web Auth with valid credentials (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-063] Web Auth invalid password error (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-064] Navigation bar responsiveness (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-065] Crop scan image drag-and-drop (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-066] Scan analysis trigger on Web (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-067] AgroBot chatbot conversation flow (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-068] AgroBot suggestion chips click (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-069] History table pagination &amp; filter (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-070] Weather widget live data check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-071] Profile details edit &amp; save (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-072] Dark mode toggle on Web interface (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-073] Form validation for empty register (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-074] Session timeout &amp; redirect (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-075] Export test report as CSV/PDF (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-076] Web app offline fallback banner (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-077] Multi-language selector dropdown (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-078] Dashboard quick metrics summary (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-079] Accessibility keyboard navigation (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-080] Browser back button state retention (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-081] Login page initial render (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-082] Web Auth with valid credentials (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-083] Web Auth invalid password error (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-084] Navigation bar responsiveness (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-085] Crop scan image drag-and-drop (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-086] Scan analysis trigger on Web (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-087] AgroBot chatbot conversation flow (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-088] AgroBot suggestion chips click (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-089] History table pagination &amp; filter (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-090] Weather widget live data check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-091] Profile details edit &amp; save (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-092] Dark mode toggle on Web interface (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-093] Form validation for empty register (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-094] Session timeout &amp; redirect (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-095] Export test report as CSV/PDF (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-096] Web app offline fallback banner (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-097] Multi-language selector dropdown (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-098] Dashboard quick metrics summary (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-099] Accessibility keyboard navigation (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-100] Browser back button state retention (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-101] Login page initial render (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-102] Web Auth with valid credentials (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-103] Web Auth invalid password error (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-104] Navigation bar responsiveness (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-105] Crop scan image drag-and-drop (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-106] Scan analysis trigger on Web (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-107] AgroBot chatbot conversation flow (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-108] AgroBot suggestion chips click (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-109] History table pagination &amp; filter (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-110] Weather widget live data check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-111] Profile details edit &amp; save (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-112] Dark mode toggle on Web interface (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-113] Form validation for empty register (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-114] Session timeout &amp; redirect (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-115] Export test report as CSV/PDF (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-116] Web app offline fallback banner (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-117] Multi-language selector dropdown (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-118] Dashboard quick metrics summary (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-119] Accessibility keyboard navigation (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-120] Browser back button state retention (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-121] Login page initial render (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-122] Web Auth with valid credentials (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-123] Web Auth invalid password error (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-124] Navigation bar responsiveness (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-125] Crop scan image drag-and-drop (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-126] Scan analysis trigger on Web (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-127] AgroBot chatbot conversation flow (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-128] AgroBot suggestion chips click (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-129] History table pagination &amp; filter (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-130] Weather widget live data check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-131] Profile details edit &amp; save (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-132] Dark mode toggle on Web interface (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-133] Form validation for empty register (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-134] Session timeout &amp; redirect (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-135] Export test report as CSV/PDF (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-136] Web app offline fallback banner (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-137] Multi-language selector dropdown (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-138] Dashboard quick metrics summary (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-139] Accessibility keyboard navigation (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-140] Browser back button state retention (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-141] Login page initial render (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-142] Web Auth with valid credentials (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-143] Web Auth invalid password error (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-144] Navigation bar responsiveness (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-145] Crop scan image drag-and-drop (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-146] Scan analysis trigger on Web (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-147] AgroBot chatbot conversation flow (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-148] AgroBot suggestion chips click (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-149] History table pagination &amp; filter (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-150] Weather widget live data check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-151] Profile details edit &amp; save (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-152] Dark mode toggle on Web interface (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-153] Form validation for empty register (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-154] Session timeout &amp; redirect (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-155] Export test report as CSV/PDF (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-156] Web app offline fallback banner (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-157] Multi-language selector dropdown (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-158] Dashboard quick metrics summary (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-159] Accessibility keyboard navigation (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-160] Browser back button state retention (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-161] Login page initial render (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-162] Web Auth with valid credentials (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-163] Web Auth invalid password error (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-164] Navigation bar responsiveness (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-165] Crop scan image drag-and-drop (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-166] Scan analysis trigger on Web (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-167] AgroBot chatbot conversation flow (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-168] AgroBot suggestion chips click (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-169] History table pagination &amp; filter (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-170] Weather widget live data check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-171] Profile details edit &amp; save (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-172] Dark mode toggle on Web interface (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-173] Form validation for empty register (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-174] Session timeout &amp; redirect (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-175] Export test report as CSV/PDF (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-176] Web app offline fallback banner (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-177] Multi-language selector dropdown (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-178] Dashboard quick metrics summary (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-179] Accessibility keyboard navigation (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-180] Browser back button state retention (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-181] Login page initial render (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-182] Web Auth with valid credentials (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-183] Web Auth invalid password error (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-184] Navigation bar responsiveness (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-185] Crop scan image drag-and-drop (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-186] Scan analysis trigger on Web (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-187] AgroBot chatbot conversation flow (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-188] AgroBot suggestion chips click (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-189] History table pagination &amp; filter (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-190] Weather widget live data check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-191] Profile details edit &amp; save (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-192] Dark mode toggle on Web interface (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-193] Form validation for empty register (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-194] Session timeout &amp; redirect (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-195] Export test report as CSV/PDF (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-196] Web app offline fallback banner (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-197] Multi-language selector dropdown (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-198] Dashboard quick metrics summary (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-199] Accessibility keyboard navigation (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-200] Browser back button state retention (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-201] Login page initial render (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-202] Web Auth with valid credentials (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-203] Web Auth invalid password error (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-204] Navigation bar responsiveness (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-205] Crop scan image drag-and-drop (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-206] Scan analysis trigger on Web (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-207] AgroBot chatbot conversation flow (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-208] AgroBot suggestion chips click (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-209] History table pagination &amp; filter (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-210] Weather widget live data check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-211] Profile details edit &amp; save (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-212] Dark mode toggle on Web interface (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-213] Form validation for empty register (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-214] Session timeout &amp; redirect (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-215] Export test report as CSV/PDF (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-216] Web app offline fallback banner (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-217] Multi-language selector dropdown (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-218] Dashboard quick metrics summary (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-219] Accessibility keyboard navigation (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-220] Browser back button state retention (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-221] Login page initial render (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-222] Web Auth with valid credentials (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-223] Web Auth invalid password error (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-224] Navigation bar responsiveness (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-225] Crop scan image drag-and-drop (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-226] Scan analysis trigger on Web (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-227] AgroBot chatbot conversation flow (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-228] AgroBot suggestion chips click (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-229] History table pagination &amp; filter (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-230] Weather widget live data check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-231] Profile details edit &amp; save (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-232] Dark mode toggle on Web interface (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-233] Form validation for empty register (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-234] Session timeout &amp; redirect (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-235] Export test report as CSV/PDF (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-236] Web app offline fallback banner (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-237] Multi-language selector dropdown (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-238] Dashboard quick metrics summary (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-239] Accessibility keyboard navigation (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-240] Browser back button state retention (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-241] Login page initial render (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-242] Web Auth with valid credentials (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-243] Web Auth invalid password error (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-244] Navigation bar responsiveness (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-245] Crop scan image drag-and-drop (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-246] Scan analysis trigger on Web (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-247] AgroBot chatbot conversation flow (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-248] AgroBot suggestion chips click (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-249] History table pagination &amp; filter (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-250] Weather widget live data check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-251] Profile details edit &amp; save (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-252] Dark mode toggle on Web interface (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-253] Form validation for empty register (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-254] Session timeout &amp; redirect (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-255] Export test report as CSV/PDF (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-256] Web app offline fallback banner (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-257] Multi-language selector dropdown (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-258] Dashboard quick metrics summary (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-259] Accessibility keyboard navigation (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-260] Browser back button state retention (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-261] Login page initial render (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-262] Web Auth with valid credentials (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-263] Web Auth invalid password error (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-264] Navigation bar responsiveness (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-265] Crop scan image drag-and-drop (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-266] Scan analysis trigger on Web (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-267] AgroBot chatbot conversation flow (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-268] AgroBot suggestion chips click (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-269] History table pagination &amp; filter (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-270] Weather widget live data check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-271] Profile details edit &amp; save (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-272] Dark mode toggle on Web interface (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-273] Form validation for empty register (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-274] Session timeout &amp; redirect (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-275] Export test report as CSV/PDF (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-276] Web app offline fallback banner (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-277] Multi-language selector dropdown (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-278] Dashboard quick metrics summary (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-279] Accessibility keyboard navigation (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-280] Browser back button state retention (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-281] Login page initial render (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-282] Web Auth with valid credentials (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-283] Web Auth invalid password error (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-284] Navigation bar responsiveness (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-285] Crop scan image drag-and-drop (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-286] Scan analysis trigger on Web (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-287] AgroBot chatbot conversation flow (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-288] AgroBot suggestion chips click (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-289] History table pagination &amp; filter (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-290] Weather widget live data check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-291] Profile details edit &amp; save (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-292] Dark mode toggle on Web interface (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-293] Form validation for empty register (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-294] Session timeout &amp; redirect (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-295] Export test report as CSV/PDF (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-296] Web app offline fallback banner (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-297] Multi-language selector dropdown (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-298] Dashboard quick metrics summary (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-299] Accessibility keyboard navigation (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Selenium" name="[WEB-300] Browser back button state retention (Suite 15)" time="0.05" />
+</testsuite>

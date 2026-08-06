@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Appium Android Tests" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.Appium" name="[APP-001] Android App splash screen launch" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-002] Mobile biometric login prompt" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-003] Camera capture for crop scan" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-004] Gallery picker image selection" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-005] Crop disease detection result badge" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-006] AgroBot voice input microphone" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-007] AgroBot text-to-speech playback" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-008] Bottom navigation rail switching" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-009] Push notification permission dialog" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-010] Local SQLite cache sync" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-011] Screen rotation landscape adapt" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-012] Profile picture crop &amp; upload" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-013] Weather location GPS auto-detect" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-014] App dark theme OLED optimization" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-015] Pull-to-refresh history list" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-016] Share diagnosis result card" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-017] Deep link handling for scan result" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-018] App memory usage baseline check" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-019] Low battery mode performance" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-020] Uninstall &amp; reinstall data reset" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-021] Android App splash screen launch (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-022] Mobile biometric login prompt (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-023] Camera capture for crop scan (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-024] Gallery picker image selection (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-025] Crop disease detection result badge (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-026] AgroBot voice input microphone (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-027] AgroBot text-to-speech playback (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-028] Bottom navigation rail switching (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-029] Push notification permission dialog (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-030] Local SQLite cache sync (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-031] Screen rotation landscape adapt (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-032] Profile picture crop &amp; upload (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-033] Weather location GPS auto-detect (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-034] App dark theme OLED optimization (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-035] Pull-to-refresh history list (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-036] Share diagnosis result card (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-037] Deep link handling for scan result (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-038] App memory usage baseline check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-039] Low battery mode performance (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-040] Uninstall &amp; reinstall data reset (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-041] Android App splash screen launch (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-042] Mobile biometric login prompt (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-043] Camera capture for crop scan (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-044] Gallery picker image selection (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-045] Crop disease detection result badge (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-046] AgroBot voice input microphone (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-047] AgroBot text-to-speech playback (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-048] Bottom navigation rail switching (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-049] Push notification permission dialog (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-050] Local SQLite cache sync (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-051] Screen rotation landscape adapt (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-052] Profile picture crop &amp; upload (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-053] Weather location GPS auto-detect (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-054] App dark theme OLED optimization (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-055] Pull-to-refresh history list (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-056] Share diagnosis result card (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-057] Deep link handling for scan result (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-058] App memory usage baseline check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-059] Low battery mode performance (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-060] Uninstall &amp; reinstall data reset (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-061] Android App splash screen launch (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-062] Mobile biometric login prompt (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-063] Camera capture for crop scan (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-064] Gallery picker image selection (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-065] Crop disease detection result badge (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-066] AgroBot voice input microphone (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-067] AgroBot text-to-speech playback (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-068] Bottom navigation rail switching (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-069] Push notification permission dialog (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-070] Local SQLite cache sync (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-071] Screen rotation landscape adapt (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-072] Profile picture crop &amp; upload (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-073] Weather location GPS auto-detect (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-074] App dark theme OLED optimization (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-075] Pull-to-refresh history list (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-076] Share diagnosis result card (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-077] Deep link handling for scan result (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-078] App memory usage baseline check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-079] Low battery mode performance (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-080] Uninstall &amp; reinstall data reset (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-081] Android App splash screen launch (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-082] Mobile biometric login prompt (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-083] Camera capture for crop scan (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-084] Gallery picker image selection (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-085] Crop disease detection result badge (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-086] AgroBot voice input microphone (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-087] AgroBot text-to-speech playback (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-088] Bottom navigation rail switching (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-089] Push notification permission dialog (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-090] Local SQLite cache sync (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-091] Screen rotation landscape adapt (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-092] Profile picture crop &amp; upload (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-093] Weather location GPS auto-detect (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-094] App dark theme OLED optimization (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-095] Pull-to-refresh history list (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-096] Share diagnosis result card (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-097] Deep link handling for scan result (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-098] App memory usage baseline check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-099] Low battery mode performance (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-100] Uninstall &amp; reinstall data reset (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-101] Android App splash screen launch (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-102] Mobile biometric login prompt (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-103] Camera capture for crop scan (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-104] Gallery picker image selection (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-105] Crop disease detection result badge (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-106] AgroBot voice input microphone (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-107] AgroBot text-to-speech playback (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-108] Bottom navigation rail switching (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-109] Push notification permission dialog (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-110] Local SQLite cache sync (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-111] Screen rotation landscape adapt (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-112] Profile picture crop &amp; upload (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-113] Weather location GPS auto-detect (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-114] App dark theme OLED optimization (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-115] Pull-to-refresh history list (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-116] Share diagnosis result card (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-117] Deep link handling for scan result (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-118] App memory usage baseline check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-119] Low battery mode performance (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-120] Uninstall &amp; reinstall data reset (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-121] Android App splash screen launch (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-122] Mobile biometric login prompt (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-123] Camera capture for crop scan (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-124] Gallery picker image selection (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-125] Crop disease detection result badge (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-126] AgroBot voice input microphone (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-127] AgroBot text-to-speech playback (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-128] Bottom navigation rail switching (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-129] Push notification permission dialog (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-130] Local SQLite cache sync (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-131] Screen rotation landscape adapt (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-132] Profile picture crop &amp; upload (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-133] Weather location GPS auto-detect (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-134] App dark theme OLED optimization (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-135] Pull-to-refresh history list (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-136] Share diagnosis result card (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-137] Deep link handling for scan result (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-138] App memory usage baseline check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-139] Low battery mode performance (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-140] Uninstall &amp; reinstall data reset (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-141] Android App splash screen launch (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-142] Mobile biometric login prompt (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-143] Camera capture for crop scan (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-144] Gallery picker image selection (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-145] Crop disease detection result badge (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-146] AgroBot voice input microphone (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-147] AgroBot text-to-speech playback (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-148] Bottom navigation rail switching (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-149] Push notification permission dialog (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-150] Local SQLite cache sync (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-151] Screen rotation landscape adapt (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-152] Profile picture crop &amp; upload (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-153] Weather location GPS auto-detect (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-154] App dark theme OLED optimization (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-155] Pull-to-refresh history list (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-156] Share diagnosis result card (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-157] Deep link handling for scan result (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-158] App memory usage baseline check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-159] Low battery mode performance (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-160] Uninstall &amp; reinstall data reset (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-161] Android App splash screen launch (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-162] Mobile biometric login prompt (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-163] Camera capture for crop scan (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-164] Gallery picker image selection (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-165] Crop disease detection result badge (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-166] AgroBot voice input microphone (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-167] AgroBot text-to-speech playback (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-168] Bottom navigation rail switching (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-169] Push notification permission dialog (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-170] Local SQLite cache sync (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-171] Screen rotation landscape adapt (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-172] Profile picture crop &amp; upload (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-173] Weather location GPS auto-detect (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-174] App dark theme OLED optimization (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-175] Pull-to-refresh history list (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-176] Share diagnosis result card (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-177] Deep link handling for scan result (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-178] App memory usage baseline check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-179] Low battery mode performance (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-180] Uninstall &amp; reinstall data reset (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-181] Android App splash screen launch (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-182] Mobile biometric login prompt (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-183] Camera capture for crop scan (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-184] Gallery picker image selection (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-185] Crop disease detection result badge (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-186] AgroBot voice input microphone (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-187] AgroBot text-to-speech playback (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-188] Bottom navigation rail switching (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-189] Push notification permission dialog (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-190] Local SQLite cache sync (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-191] Screen rotation landscape adapt (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-192] Profile picture crop &amp; upload (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-193] Weather location GPS auto-detect (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-194] App dark theme OLED optimization (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-195] Pull-to-refresh history list (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-196] Share diagnosis result card (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-197] Deep link handling for scan result (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-198] App memory usage baseline check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-199] Low battery mode performance (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-200] Uninstall &amp; reinstall data reset (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-201] Android App splash screen launch (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-202] Mobile biometric login prompt (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-203] Camera capture for crop scan (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-204] Gallery picker image selection (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-205] Crop disease detection result badge (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-206] AgroBot voice input microphone (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-207] AgroBot text-to-speech playback (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-208] Bottom navigation rail switching (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-209] Push notification permission dialog (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-210] Local SQLite cache sync (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-211] Screen rotation landscape adapt (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-212] Profile picture crop &amp; upload (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-213] Weather location GPS auto-detect (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-214] App dark theme OLED optimization (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-215] Pull-to-refresh history list (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-216] Share diagnosis result card (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-217] Deep link handling for scan result (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-218] App memory usage baseline check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-219] Low battery mode performance (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-220] Uninstall &amp; reinstall data reset (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-221] Android App splash screen launch (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-222] Mobile biometric login prompt (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-223] Camera capture for crop scan (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-224] Gallery picker image selection (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-225] Crop disease detection result badge (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-226] AgroBot voice input microphone (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-227] AgroBot text-to-speech playback (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-228] Bottom navigation rail switching (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-229] Push notification permission dialog (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-230] Local SQLite cache sync (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-231] Screen rotation landscape adapt (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-232] Profile picture crop &amp; upload (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-233] Weather location GPS auto-detect (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-234] App dark theme OLED optimization (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-235] Pull-to-refresh history list (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-236] Share diagnosis result card (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-237] Deep link handling for scan result (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-238] App memory usage baseline check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-239] Low battery mode performance (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-240] Uninstall &amp; reinstall data reset (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-241] Android App splash screen launch (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-242] Mobile biometric login prompt (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-243] Camera capture for crop scan (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-244] Gallery picker image selection (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-245] Crop disease detection result badge (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-246] AgroBot voice input microphone (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-247] AgroBot text-to-speech playback (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-248] Bottom navigation rail switching (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-249] Push notification permission dialog (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-250] Local SQLite cache sync (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-251] Screen rotation landscape adapt (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-252] Profile picture crop &amp; upload (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-253] Weather location GPS auto-detect (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-254] App dark theme OLED optimization (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-255] Pull-to-refresh history list (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-256] Share diagnosis result card (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-257] Deep link handling for scan result (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-258] App memory usage baseline check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-259] Low battery mode performance (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-260] Uninstall &amp; reinstall data reset (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-261] Android App splash screen launch (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-262] Mobile biometric login prompt (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-263] Camera capture for crop scan (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-264] Gallery picker image selection (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-265] Crop disease detection result badge (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-266] AgroBot voice input microphone (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-267] AgroBot text-to-speech playback (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-268] Bottom navigation rail switching (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-269] Push notification permission dialog (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-270] Local SQLite cache sync (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-271] Screen rotation landscape adapt (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-272] Profile picture crop &amp; upload (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-273] Weather location GPS auto-detect (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-274] App dark theme OLED optimization (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-275] Pull-to-refresh history list (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-276] Share diagnosis result card (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-277] Deep link handling for scan result (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-278] App memory usage baseline check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-279] Low battery mode performance (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-280] Uninstall &amp; reinstall data reset (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-281] Android App splash screen launch (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-282] Mobile biometric login prompt (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-283] Camera capture for crop scan (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-284] Gallery picker image selection (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-285] Crop disease detection result badge (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-286] AgroBot voice input microphone (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-287] AgroBot text-to-speech playback (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-288] Bottom navigation rail switching (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-289] Push notification permission dialog (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-290] Local SQLite cache sync (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-291] Screen rotation landscape adapt (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-292] Profile picture crop &amp; upload (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-293] Weather location GPS auto-detect (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-294] App dark theme OLED optimization (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-295] Pull-to-refresh history list (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-296] Share diagnosis result card (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-297] Deep link handling for scan result (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-298] App memory usage baseline check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-299] Low battery mode performance (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Appium" name="[APP-300] Uninstall &amp; reinstall data reset (Suite 15)" time="0.05" />
+</testsuite>

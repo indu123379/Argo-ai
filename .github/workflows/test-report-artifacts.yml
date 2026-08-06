@@ -41,8 +41,6 @@ jobs:
         with:
           name: argo-ai-test-artifacts
           path: |
-            tests/test_cases_appium.csv
-            tests/test_cases_selenium.csv
-            tests/results_appium.csv
-            tests/results_selenium.csv
+            tests/test_cases_*.csv
+            tests/results_*.csv
             tests/test_report.xlsx

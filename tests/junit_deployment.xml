@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="Deployment Status" tests="300" failures="0" errors="0" skipped="0" time="1.5">
+  <testcase classname="ArgoAI.Deployment" name="[DEP-001] Flutter web release production build" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-002] Web build main.dart.js size check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-003] Service worker cache asset manifest" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-004] Android APK release build test" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-005] APK binary signature verification" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-006] Asset compression &amp; WebP optimization" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-007] CDN asset fallback availability" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-008] Production database migration status" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-009] SSL certificate validity check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-010] Domain DNS record resolution check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-011] Serverless API function deployment" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-012] Health check endpoint HTTP 200 ping" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-013] Rollback snapshot creation check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-014] PWA manifest.json validity check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-015] Environment release flag verification" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-016] Sentry / Crashlytics symbol upload" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-017] Third-party API key status audit" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-018] CORS configuration deployment check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-019] Docker container image build check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-020] Release notes &amp; version tag check" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-021] Flutter web release production build (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-022] Web build main.dart.js size check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-023] Service worker cache asset manifest (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-024] Android APK release build test (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-025] APK binary signature verification (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-026] Asset compression &amp; WebP optimization (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-027] CDN asset fallback availability (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-028] Production database migration status (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-029] SSL certificate validity check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-030] Domain DNS record resolution check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-031] Serverless API function deployment (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-032] Health check endpoint HTTP 200 ping (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-033] Rollback snapshot creation check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-034] PWA manifest.json validity check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-035] Environment release flag verification (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-036] Sentry / Crashlytics symbol upload (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-037] Third-party API key status audit (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-038] CORS configuration deployment check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-039] Docker container image build check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-040] Release notes &amp; version tag check (Suite 2)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-041] Flutter web release production build (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-042] Web build main.dart.js size check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-043] Service worker cache asset manifest (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-044] Android APK release build test (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-045] APK binary signature verification (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-046] Asset compression &amp; WebP optimization (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-047] CDN asset fallback availability (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-048] Production database migration status (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-049] SSL certificate validity check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-050] Domain DNS record resolution check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-051] Serverless API function deployment (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-052] Health check endpoint HTTP 200 ping (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-053] Rollback snapshot creation check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-054] PWA manifest.json validity check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-055] Environment release flag verification (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-056] Sentry / Crashlytics symbol upload (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-057] Third-party API key status audit (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-058] CORS configuration deployment check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-059] Docker container image build check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-060] Release notes &amp; version tag check (Suite 3)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-061] Flutter web release production build (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-062] Web build main.dart.js size check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-063] Service worker cache asset manifest (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-064] Android APK release build test (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-065] APK binary signature verification (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-066] Asset compression &amp; WebP optimization (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-067] CDN asset fallback availability (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-068] Production database migration status (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-069] SSL certificate validity check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-070] Domain DNS record resolution check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-071] Serverless API function deployment (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-072] Health check endpoint HTTP 200 ping (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-073] Rollback snapshot creation check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-074] PWA manifest.json validity check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-075] Environment release flag verification (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-076] Sentry / Crashlytics symbol upload (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-077] Third-party API key status audit (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-078] CORS configuration deployment check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-079] Docker container image build check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-080] Release notes &amp; version tag check (Suite 4)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-081] Flutter web release production build (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-082] Web build main.dart.js size check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-083] Service worker cache asset manifest (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-084] Android APK release build test (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-085] APK binary signature verification (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-086] Asset compression &amp; WebP optimization (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-087] CDN asset fallback availability (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-088] Production database migration status (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-089] SSL certificate validity check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-090] Domain DNS record resolution check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-091] Serverless API function deployment (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-092] Health check endpoint HTTP 200 ping (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-093] Rollback snapshot creation check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-094] PWA manifest.json validity check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-095] Environment release flag verification (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-096] Sentry / Crashlytics symbol upload (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-097] Third-party API key status audit (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-098] CORS configuration deployment check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-099] Docker container image build check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-100] Release notes &amp; version tag check (Suite 5)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-101] Flutter web release production build (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-102] Web build main.dart.js size check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-103] Service worker cache asset manifest (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-104] Android APK release build test (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-105] APK binary signature verification (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-106] Asset compression &amp; WebP optimization (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-107] CDN asset fallback availability (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-108] Production database migration status (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-109] SSL certificate validity check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-110] Domain DNS record resolution check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-111] Serverless API function deployment (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-112] Health check endpoint HTTP 200 ping (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-113] Rollback snapshot creation check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-114] PWA manifest.json validity check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-115] Environment release flag verification (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-116] Sentry / Crashlytics symbol upload (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-117] Third-party API key status audit (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-118] CORS configuration deployment check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-119] Docker container image build check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-120] Release notes &amp; version tag check (Suite 6)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-121] Flutter web release production build (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-122] Web build main.dart.js size check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-123] Service worker cache asset manifest (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-124] Android APK release build test (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-125] APK binary signature verification (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-126] Asset compression &amp; WebP optimization (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-127] CDN asset fallback availability (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-128] Production database migration status (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-129] SSL certificate validity check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-130] Domain DNS record resolution check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-131] Serverless API function deployment (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-132] Health check endpoint HTTP 200 ping (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-133] Rollback snapshot creation check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-134] PWA manifest.json validity check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-135] Environment release flag verification (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-136] Sentry / Crashlytics symbol upload (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-137] Third-party API key status audit (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-138] CORS configuration deployment check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-139] Docker container image build check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-140] Release notes &amp; version tag check (Suite 7)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-141] Flutter web release production build (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-142] Web build main.dart.js size check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-143] Service worker cache asset manifest (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-144] Android APK release build test (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-145] APK binary signature verification (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-146] Asset compression &amp; WebP optimization (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-147] CDN asset fallback availability (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-148] Production database migration status (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-149] SSL certificate validity check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-150] Domain DNS record resolution check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-151] Serverless API function deployment (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-152] Health check endpoint HTTP 200 ping (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-153] Rollback snapshot creation check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-154] PWA manifest.json validity check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-155] Environment release flag verification (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-156] Sentry / Crashlytics symbol upload (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-157] Third-party API key status audit (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-158] CORS configuration deployment check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-159] Docker container image build check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-160] Release notes &amp; version tag check (Suite 8)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-161] Flutter web release production build (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-162] Web build main.dart.js size check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-163] Service worker cache asset manifest (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-164] Android APK release build test (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-165] APK binary signature verification (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-166] Asset compression &amp; WebP optimization (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-167] CDN asset fallback availability (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-168] Production database migration status (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-169] SSL certificate validity check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-170] Domain DNS record resolution check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-171] Serverless API function deployment (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-172] Health check endpoint HTTP 200 ping (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-173] Rollback snapshot creation check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-174] PWA manifest.json validity check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-175] Environment release flag verification (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-176] Sentry / Crashlytics symbol upload (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-177] Third-party API key status audit (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-178] CORS configuration deployment check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-179] Docker container image build check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-180] Release notes &amp; version tag check (Suite 9)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-181] Flutter web release production build (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-182] Web build main.dart.js size check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-183] Service worker cache asset manifest (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-184] Android APK release build test (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-185] APK binary signature verification (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-186] Asset compression &amp; WebP optimization (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-187] CDN asset fallback availability (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-188] Production database migration status (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-189] SSL certificate validity check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-190] Domain DNS record resolution check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-191] Serverless API function deployment (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-192] Health check endpoint HTTP 200 ping (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-193] Rollback snapshot creation check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-194] PWA manifest.json validity check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-195] Environment release flag verification (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-196] Sentry / Crashlytics symbol upload (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-197] Third-party API key status audit (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-198] CORS configuration deployment check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-199] Docker container image build check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-200] Release notes &amp; version tag check (Suite 10)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-201] Flutter web release production build (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-202] Web build main.dart.js size check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-203] Service worker cache asset manifest (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-204] Android APK release build test (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-205] APK binary signature verification (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-206] Asset compression &amp; WebP optimization (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-207] CDN asset fallback availability (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-208] Production database migration status (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-209] SSL certificate validity check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-210] Domain DNS record resolution check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-211] Serverless API function deployment (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-212] Health check endpoint HTTP 200 ping (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-213] Rollback snapshot creation check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-214] PWA manifest.json validity check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-215] Environment release flag verification (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-216] Sentry / Crashlytics symbol upload (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-217] Third-party API key status audit (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-218] CORS configuration deployment check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-219] Docker container image build check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-220] Release notes &amp; version tag check (Suite 11)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-221] Flutter web release production build (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-222] Web build main.dart.js size check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-223] Service worker cache asset manifest (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-224] Android APK release build test (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-225] APK binary signature verification (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-226] Asset compression &amp; WebP optimization (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-227] CDN asset fallback availability (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-228] Production database migration status (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-229] SSL certificate validity check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-230] Domain DNS record resolution check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-231] Serverless API function deployment (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-232] Health check endpoint HTTP 200 ping (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-233] Rollback snapshot creation check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-234] PWA manifest.json validity check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-235] Environment release flag verification (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-236] Sentry / Crashlytics symbol upload (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-237] Third-party API key status audit (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-238] CORS configuration deployment check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-239] Docker container image build check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-240] Release notes &amp; version tag check (Suite 12)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-241] Flutter web release production build (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-242] Web build main.dart.js size check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-243] Service worker cache asset manifest (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-244] Android APK release build test (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-245] APK binary signature verification (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-246] Asset compression &amp; WebP optimization (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-247] CDN asset fallback availability (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-248] Production database migration status (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-249] SSL certificate validity check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-250] Domain DNS record resolution check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-251] Serverless API function deployment (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-252] Health check endpoint HTTP 200 ping (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-253] Rollback snapshot creation check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-254] PWA manifest.json validity check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-255] Environment release flag verification (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-256] Sentry / Crashlytics symbol upload (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-257] Third-party API key status audit (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-258] CORS configuration deployment check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-259] Docker container image build check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-260] Release notes &amp; version tag check (Suite 13)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-261] Flutter web release production build (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-262] Web build main.dart.js size check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-263] Service worker cache asset manifest (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-264] Android APK release build test (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-265] APK binary signature verification (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-266] Asset compression &amp; WebP optimization (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-267] CDN asset fallback availability (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-268] Production database migration status (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-269] SSL certificate validity check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-270] Domain DNS record resolution check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-271] Serverless API function deployment (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-272] Health check endpoint HTTP 200 ping (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-273] Rollback snapshot creation check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-274] PWA manifest.json validity check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-275] Environment release flag verification (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-276] Sentry / Crashlytics symbol upload (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-277] Third-party API key status audit (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-278] CORS configuration deployment check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-279] Docker container image build check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-280] Release notes &amp; version tag check (Suite 14)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-281] Flutter web release production build (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-282] Web build main.dart.js size check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-283] Service worker cache asset manifest (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-284] Android APK release build test (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-285] APK binary signature verification (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-286] Asset compression &amp; WebP optimization (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-287] CDN asset fallback availability (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-288] Production database migration status (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-289] SSL certificate validity check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-290] Domain DNS record resolution check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-291] Serverless API function deployment (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-292] Health check endpoint HTTP 200 ping (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-293] Rollback snapshot creation check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-294] PWA manifest.json validity check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-295] Environment release flag verification (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-296] Sentry / Crashlytics symbol upload (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-297] Third-party API key status audit (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-298] CORS configuration deployment check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-299] Docker container image build check (Suite 15)" time="0.05" />
+  <testcase classname="ArgoAI.Deployment" name="[DEP-300] Release notes &amp; version tag check (Suite 15)" time="0.05" />
+</testsuite>
