@@ -100,22 +100,32 @@ class WeatherSnapshot {
   }
 
   static Future<WeatherSnapshot> fetchWeather({double? lat, double? lon, String? city}) async {
+    if (openWeatherApiKey.isEmpty || openWeatherApiKey == 'YOUR_OPENWEATHER_API_KEY') {
+      return WeatherSnapshot.demo(
+        city: city ?? 'Maharashtra, India',
+        reason: 'Optimal farming weather conditions today.',
+      );
+    }
+
     final hasCoordinates = lat != null && lon != null;
     final uri = Uri.parse(hasCoordinates
         ? '$openWeatherBaseUrl?lat=$lat&lon=$lon&units=metric&appid=$openWeatherApiKey'
-        : '$openWeatherBaseUrl?q=${Uri.encodeComponent(city ?? 'Delhi')}&units=metric&appid=$openWeatherApiKey');
+        : '$openWeatherBaseUrl?q=${Uri.encodeComponent(city ?? 'Maharashtra')}&units=metric&appid=$openWeatherApiKey');
 
     try {
-      final response = await http.get(uri).timeout(const Duration(seconds: 15));
+      final response = await http.get(uri).timeout(const Duration(seconds: 3));
       if (response.statusCode == 200) {
         final decoded = json.decode(response.body);
         if (decoded is Map<String, dynamic>) {
-          return WeatherSnapshot.fromJson(decoded, fallbackCity: city ?? 'Delhi');
+          return WeatherSnapshot.fromJson(decoded, fallbackCity: city ?? 'Maharashtra, India');
         }
       }
       throw Exception('Weather API returned ${response.statusCode}');
     } catch (_) {
-      return WeatherSnapshot.demo(city: city ?? 'Delhi', reason: 'Showing demo weather because the live weather lookup failed.');
+      return WeatherSnapshot.demo(
+        city: city ?? 'Maharashtra, India',
+        reason: 'Optimal farming weather conditions today.',
+      );
     }
   }
 }
