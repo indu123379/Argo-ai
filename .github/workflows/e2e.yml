@@ -33,13 +33,14 @@ jobs:
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload Selenium Artifacts
+      - name: Upload Selenium CSV and XLSX Test Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: selenium-website-tests-artifacts
+          name: selenium-website-tests-report
           path: |
             tests/test_cases_selenium.csv
             tests/results_selenium.csv
+            tests/test_report.xlsx
 
   appium-android-tests:
     name: "📱 Appium - Android Tests (300)"
@@ -64,13 +65,14 @@ jobs:
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload Appium Artifacts
+      - name: Upload Appium CSV and XLSX Test Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: appium-android-tests-artifacts
+          name: appium-android-tests-report
           path: |
             tests/test_cases_appium.csv
             tests/results_appium.csv
+            tests/test_report.xlsx
 
   unit-tests-api:
     name: "🔬 Unit Tests - API (300)"
@@ -95,22 +97,23 @@ jobs:
           pip install -r requirements-test.txt
           flutter pub get
 
-      - name: Run Flutter unit tests
-        run: flutter test --no-sound-null-safety || true
-
       - name: Run API Unit Tests (300)
         run: |
           python tests/generate_app_test_cases.py
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload API Unit Test Artifacts
+      - name: Run Flutter unit tests
+        run: flutter test || true
+
+      - name: Upload API Unit Test CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: unit-tests-api-artifacts
+          name: unit-tests-api-report
           path: |
             tests/test_cases_api.csv
             tests/results_api.csv
+            tests/test_report.xlsx
 
   validation-tests:
     name: "✅ Validation Tests (300)"
@@ -135,13 +138,14 @@ jobs:
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload Validation Test Artifacts
+      - name: Upload Validation Test CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: validation-tests-artifacts
+          name: validation-tests-report
           path: |
             tests/test_cases_validation.csv
             tests/results_validation.csv
+            tests/test_report.xlsx
 
   deployment-status:
     name: "🚀 Deployment Status (300)"
@@ -166,13 +170,14 @@ jobs:
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload Deployment Status Artifacts
+      - name: Upload Deployment Status CSV and XLSX Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: deployment-status-artifacts
+          name: deployment-status-report
           path: |
             tests/test_cases_deployment.csv
             tests/results_deployment.csv
+            tests/test_report.xlsx
 
   load-testing-performance:
     name: "📈 Load Testing - Performance Tests (300)"
@@ -197,11 +202,11 @@ jobs:
           python tests/ci_generate_results.py
           python tests/generate_report.py
 
-      - name: Upload Consolidated Test Report Artifacts
+      - name: Upload Full Downloadable XLSX and CSV Test Report Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: argo-ai-full-test-report
+          name: argo-ai-full-testcases-report.xlsx
           path: |
+            tests/test_report.xlsx
             tests/test_cases_*.csv
             tests/results_*.csv
-            tests/test_report.xlsx
