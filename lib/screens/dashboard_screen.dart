@@ -12,6 +12,7 @@ import 'result_screen.dart';
 import 'chatbot_screen.dart';
 import 'scan_screen.dart';
 import 'history_screen.dart';
+import 'weather_screen.dart';
 import '../providers/language_provider.dart';
 import 'package:provider/provider.dart';
 
@@ -198,7 +199,7 @@ class DashboardScreen extends StatelessWidget {
                         icon: Icons.cloud_rounded,
                         label: l10n.weather,
                         color: Colors.cyan,
-                        onTap: () {},
+                        onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const WeatherScreen())),
                       ),
                     ],
                   ).animate().fadeIn(duration: 500.ms).slideY(begin: 0.1),
